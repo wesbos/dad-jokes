@@ -39,3 +39,9 @@
 **Q:** Why did the developer ground his daughter?
 
 **A:** She wasn't telling the truthy
+
+---
+
+**Q:** Where did the parallel function wash its hands?
+
+**A:** Async
