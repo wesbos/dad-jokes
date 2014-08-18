@@ -39,3 +39,9 @@
 **Q:** Why did the developer ground his daughter?
 
 **A:** She wasn't telling the truthy
+
+---
+
+**Q:** What did the array say after it was extended?
+
+**A:** Stop objectifying me.
