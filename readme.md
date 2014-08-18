@@ -33,3 +33,9 @@
 **Q:** Whats the object-oriented way to become wealthy?
 
 **A:** Inheritance
+
+---
+
+**Q:** Why did the developer ground his daughter?
+
+**A:** She wasn't telling the truthy
