@@ -27,3 +27,9 @@
 **Q:** Why did the angry function exceed the callstack size?
 
 **A:** He got into an Argument with himself
+
+---
+
+**Q:** Whats the object-oriented way to become wealthy?
+
+**A:** Inheritance
