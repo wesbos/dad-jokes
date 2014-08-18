@@ -45,3 +45,9 @@
 **Q:** What did the array say after it was extended?
 
 **A:** Stop objectifying me.
+
+---
+
+**Q:** Where did the parallel function wash its hands?
+
+**A:** Async
