@@ -52,3 +52,9 @@
 **!false**
 
 It's funny 'cause it's true.
+
+---
+
+**Q:** Where did the parallel function wash its hands?
+
+**A:** Async
