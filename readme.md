@@ -14,7 +14,7 @@
 
 **Q:** Why did 10 get paid less than "10"?
 
-**A:** There was workplace inequality. 
+**A:** 10 was a woman of color.
 
 ---
 
