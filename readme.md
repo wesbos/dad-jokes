@@ -76,3 +76,9 @@ It's funny 'cause it's true.
 **Q:** What's the second movie about a database engineer called?
 
 **A:** The SQL.
+
+---
+
+A programmer's wife tells them, "Run to the store and pick up a loaf of bread. If they have eggs, get two dozen."
+
+The programmer comes home with 12 loaves of bread.
