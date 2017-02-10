@@ -111,7 +111,7 @@ It's funny 'cause it's true.
 
 **Q:** Why was the computer cold?
 
-**A:** It left it's Windows open!
+**A:** It left its Windows open!
 
 ---
 
