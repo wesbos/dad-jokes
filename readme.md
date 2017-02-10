@@ -49,9 +49,9 @@
 
 ---
 
-**!false**
+**Q:** !false
 
-It's funny 'cause it's true.
+**A:** It's funny 'cause it's true.
 
 ---
 
