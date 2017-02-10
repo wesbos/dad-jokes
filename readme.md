@@ -150,3 +150,11 @@ The programmer comes home with 12 loaves of bread.
 **A:** Lots of memory!
 
 ---
+
+**Q:** Have you heard of the band 1023MG?
+
+**A:** They haven't got a gig yet!
+
+---
+
+
