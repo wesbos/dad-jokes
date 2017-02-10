@@ -58,3 +58,21 @@ It's funny 'cause it's true.
 **Q:** Where did the parallel function wash its hands?
 
 **A:** Async
+
+---
+
+**Q:** I'm starting a band called HTML Encoder
+
+**A:** Looking to buy a guitar \&amp;
+
+---
+
+**Q:** Why did the functions stop calling each other?
+
+**A:** Because they had constant arguments.
+
+---
+
+**Q:** What's the second movie about a database engineer called?
+
+**A:** The SQL.
