@@ -79,6 +79,12 @@ It's funny 'cause it's true.
 
 ---
 
+A programmer's wife tells them, "Run to the store and pick up a loaf of bread. If they have eggs, get a dozen."
+
+The programmer comes home with 12 loaves of bread.
+
+---
+
 **Q:** What did the spider do on the computer? 
 
 **A:** Made a website!
