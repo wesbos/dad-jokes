@@ -46,7 +46,6 @@
 
 **A:** Stop objectifying me.
 
-
 ---
 
 **!false**
@@ -150,3 +149,15 @@ The programmer comes home with 12 loaves of bread.
 **A:** Lots of memory!
 
 ---
+
+**Q:** How do programming pirates pass method parameters?
+
+**A:** Varrrrarrrgs.
+
+---
+
+**Q:** How do programming shepherds count their flock?
+
+**A:** With lambda functions
+
+--
