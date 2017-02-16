@@ -150,3 +150,9 @@ The programmer comes home with 12 loaves of bread.
 **A:** Lots of memory!
 
 ---
+
+**Q:** How many programmers does it take to screw in a lightbulb?
+
+**A:** None - that's a hardware problem.
+
+---
