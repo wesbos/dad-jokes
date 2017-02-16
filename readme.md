@@ -150,3 +150,9 @@ The programmer comes home with 12 loaves of bread.
 **A:** Lots of memory!
 
 ---
+
+Java truly is an OOP language...
+
+As in: OOPs I used Java!
+
+---
