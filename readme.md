@@ -150,3 +150,27 @@ The programmer comes home with 12 loaves of bread.
 **A:** Lots of memory!
 
 ---
+
+**Q:** How did pirates collaborate before computers ?
+
+**A:** Pier to pier networking.
+
+---
+
+**Q:** Why don't bachelors like Git?
+
+**A:** Because they are afraid to commit.
+
+---
+
+**Q:** A SQL query goes into a bar, walks up to two tables and asks:
+
+**A:** Can I JOIN you?
+
+---
+
+**Q:** ["hip","hip"]
+
+**A:** (hip hip array!)
+
+---
