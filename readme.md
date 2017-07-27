@@ -174,3 +174,9 @@ The programmer comes home with 12 loaves of bread.
 **A:** (hip hip array!)
 
 ---
+
+**Q:** Why is JavaScript pokemon's favourite programming language?
+
+**A:** Because you've gotta try catch 'em all!
+
+---
