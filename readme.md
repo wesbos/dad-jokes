@@ -177,6 +177,6 @@ The programmer comes home with 12 loaves of bread.
 
 **Q:** Why was the developer's family upset with them at dinner?
 
-**A:** He forgot to git squash before going home
+**A:** They forgot to git squash before going home
 
 ---
