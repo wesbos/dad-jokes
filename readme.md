@@ -174,3 +174,9 @@ The programmer comes home with 12 loaves of bread.
 **A:** (hip hip array!)
 
 ---
+
+**Q:** Why was the developer's family upset with him at dinner?
+
+**A:** He forgot to git squash before going home
+
+---
