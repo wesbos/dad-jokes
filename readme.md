@@ -157,6 +157,12 @@ The programmer comes home with 12 loaves of bread.
 
 ---
 
+**Q:** Define 'Algorithm'.
+
+**A:** A word used by programmers when they don't want to explain what they did.
+
+---
+
 **Q:** Why don't bachelors like Git?
 
 **A:** Because they are afraid to commit.
