@@ -14,7 +14,7 @@
 
 **Q:** Why did 10 get paid less than "10"?
 
-**A:** There was workplace inequality. 
+**A:** There was workplace inequality.
 
 ---
 
@@ -85,7 +85,7 @@ The programmer comes home with 12 loaves of bread.
 
 ---
 
-**Q:** What did the spider do on the computer? 
+**Q:** What did the spider do on the computer?
 
 **A:** Made a website!
 
@@ -151,7 +151,7 @@ The programmer comes home with 12 loaves of bread.
 
 ---
 
-**Q:** How did pirates collaborate before computers ?
+**Q:** How did pirates collaborate before computers?
 
 **A:** Pier to pier networking.
 
