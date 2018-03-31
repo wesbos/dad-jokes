@@ -180,3 +180,9 @@ The programmer comes home with 12 loaves of bread.
 **A:** They forgot to git squash before going home
 
 ---
+
+**Q:** In what way Java is related to sex?
+
+**A:** Java is applicable in any OS like anal sex its applicable in any genders.
+
+---
