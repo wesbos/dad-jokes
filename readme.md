@@ -151,7 +151,7 @@ The programmer comes home with 12 loaves of bread.
 
 ---
 
-**Q:** How did pirates collaborate before computers ?
+**Q:** How did pirates collaborate before computers?
 
 **A:** Pier to pier networking.
 
