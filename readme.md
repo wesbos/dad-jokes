@@ -1,5 +1,9 @@
 # Dad style programming jokes
 
+submit your own, if they make me laugh I'll merge them. 
+
+---
+
 **Q:**  What diet did the ghost developer go on?
 
 **A:** Boolean
