@@ -180,3 +180,9 @@ The programmer comes home with 12 loaves of bread.
 **A:** They forgot to git squash before going home
 
 ---
+
+**Q:** What is Internet Explorer's purpose?
+
+**A:** Installing chrome.
+
+---
