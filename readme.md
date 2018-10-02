@@ -14,7 +14,7 @@
 
 **Q:** Why did 10 get paid less than "10"?
 
-**A:** There was workplace inequality. 
+**A:** There was workplace inequality.
 
 ---
 
@@ -85,7 +85,7 @@ The programmer comes home with 12 loaves of bread.
 
 ---
 
-**Q:** What did the spider do on the computer? 
+**Q:** What did the spider do on the computer?
 
 **A:** Made a website!
 
@@ -178,5 +178,11 @@ The programmer comes home with 12 loaves of bread.
 **Q:** Why was the developer's family upset with them at dinner?
 
 **A:** They forgot to git squash before going home
+
+---
+
+**Q:** What did JavaScript call his son?
+
+**A:** JSON!
 
 ---
