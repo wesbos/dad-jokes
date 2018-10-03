@@ -207,3 +207,9 @@ As in: OOPs I used Java!
 **A:** JSON!
 
 ---
+
+**Q:** What did the proud React component say to its child?
+
+**A:** I've got to give you props
+
+---
