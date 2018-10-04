@@ -170,7 +170,7 @@ As in: OOPs I used Java!
 
 **A:** With lambda functions
 
---
+---
 
 **Q:** How did pirates collaborate before computers ?
 
@@ -213,3 +213,7 @@ As in: OOPs I used Java!
 **A:** I've got to give you props
 
 ---
+
+**Q:** How does a programmer open a jar for his wife?
+
+**A:** He installs Java
