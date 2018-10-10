@@ -213,3 +213,11 @@ As in: OOPs I used Java!
 **A:** I've got to give you props
 
 ---
+
+**Q:** What did the server say to his client who was having a bad day?
+
+**A:** Everything's going to be 200
+
+---
+
+
