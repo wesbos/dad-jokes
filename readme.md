@@ -214,6 +214,12 @@ As in: OOPs I used Java!
 
 ---
 
+**Q:** What did the server say to his client who was having a bad day?
+
+**A:** Everything's going to be 200
+
+---
+
 **Q:** How does a programmer open a jar for his significant other?
 
 **A:** He installs Java
