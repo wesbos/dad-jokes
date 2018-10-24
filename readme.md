@@ -220,4 +220,11 @@ As in: OOPs I used Java!
 
 ---
 
+**Q:** You know what the best thing about booleans is?
+
+**A:** Even if you are wrong, you are only off by a bit.
+
+---
+
+
 
