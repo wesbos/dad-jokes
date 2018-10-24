@@ -220,4 +220,8 @@ As in: OOPs I used Java!
 
 ---
 
+**Q:** How did the mafioso kill the Node server?
 
+**A:** Tie await to it and let it async.
+
+---
