@@ -220,4 +220,9 @@ As in: OOPs I used Java!
 
 ---
 
+**Q:** Why couldn’t the user update a file on a shared server?
+
+**A:** They didn’t have the write permissions
+
+---
 
