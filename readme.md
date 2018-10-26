@@ -220,4 +220,7 @@ As in: OOPs I used Java!
 
 ---
 
+**Q:** Why did the constant break up with the variable?
+**A:** Because he changed…
 
+---
