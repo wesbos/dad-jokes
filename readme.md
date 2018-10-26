@@ -132,7 +132,7 @@ The programmer comes home with 12 loaves of bread.
 
 **Q:** Why did the computer squeak?
 
-**A:** Because someone stepped on it's mouse!
+**A:** Because someone stepped on its mouse!
 
 ---
 
