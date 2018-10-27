@@ -1,10 +1,10 @@
 # Dad style programming jokes
 
-submit your own, if they make me laugh I'll merge them. 
+submit your own, if they make me laugh I'll merge them.
 
 ---
 
-**Q:**  What diet did the ghost developer go on?
+**Q:** What diet did the ghost developer go on?
 
 **A:** Boolean
 
@@ -220,4 +220,8 @@ As in: OOPs I used Java!
 
 ---
 
+**Q:** What is a pirate's favorite programming language?
 
+**A:** R
+
+---
