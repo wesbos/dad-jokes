@@ -222,4 +222,4 @@ As in: OOPs I used Java!
 
 **Q:** How does a programmer open a jar for his significant other?
 
-**A:** He installs Java
+**A:** They install Java
