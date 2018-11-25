@@ -1,4 +1,4 @@
-# Dad style programming jokes
+# Dad-Style Programming Jokes
 
 submit your own, if they make me laugh I'll merge them. 
 
@@ -220,4 +220,20 @@ As in: OOPs I used Java!
 
 ---
 
+**Q:** Why did the constant break up with the variable?
 
+**A:** Because she changed
+
+---
+
+**Q:** Why did the database administrator leave his wife?
+
+**A:** She had one-to-many relationships
+
+---
+
+Asynchronous JavaScript is amazing.
+
+I Promise you.
+
+---
