@@ -220,4 +220,10 @@ As in: OOPs I used Java!
 
 ---
 
+**Q:** Why do Java Programmers wear glasses?
+
+**A:** Because they don't C#.
+
+---
+
 
