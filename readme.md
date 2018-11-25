@@ -1,6 +1,7 @@
 # Dad-Style Programming Jokes
+## Programming puns that are armed and dad-ly.
 
-submit your own, if they make me laugh I'll merge them. 
+Submit your own, if they make me laugh I'll merge them. 
 
 ---
 
@@ -237,3 +238,13 @@ Asynchronous JavaScript is amazing.
 I Promise you.
 
 ---
+
+**Q:** What did the Class say in court when put on trial?
+
+**A:** I strongly object!
+
+---
+
+**Q:** Why do Java developers wear glasses?
+
+**A:** Because they don't C#!
