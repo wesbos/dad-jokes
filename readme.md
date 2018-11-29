@@ -221,3 +221,14 @@ As in: OOPs I used Java!
 ---
 
 
+**Q:** How many developers does it take to change a light bulb? 
+
+**A:** None. It's a hardware issue
+
+---
+
+**Q:** Why do programmers always mix up Halloween and Christmas? 
+
+**A:** Because 31 OCT == 25 DEC
+
+---
