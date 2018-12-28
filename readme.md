@@ -220,4 +220,6 @@ As in: OOPs I used Java!
 
 ---
 
+**Q:** Where do computers go to dance?
 
+**A:** The disk-o. They really love techno music.
