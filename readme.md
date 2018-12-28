@@ -220,4 +220,14 @@ As in: OOPs I used Java!
 
 ---
 
+**Q:** What are computers' favorite snacks?
 
+**A:** Microchips, phish sticks, and cookies. But just a few bytes of each.
+
+---
+
+**Q:** What do computers love to do at the beach?
+
+**A:** Put on some spam block for protection so they can safely surf the net while catching some .WAVs!
+
+---
