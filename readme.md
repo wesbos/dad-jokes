@@ -220,4 +220,15 @@ As in: OOPs I used Java!
 
 ---
 
+**Q:** What do you call a woman you married off the internet?
+
+**A:** Wife-I
+
+---
+
+**Q:** Is Google male or female?
+
+**A:** Female, because it doesn't let you finish the sentence before making suggestion.
+
+---
 
