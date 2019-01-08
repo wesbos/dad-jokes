@@ -219,11 +219,14 @@ As in: OOPs I used Java!
 **A:** Everything's going to be 200
 
 ---
-
 **Q:** Why do Java Programmers wear glasses?
 
 **A:** Because they don't C#.
 
 ---
 
+**Q:** Why did the developer go broke?
 
+**A:** Because he used up all his cache
+
+---
