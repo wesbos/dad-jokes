@@ -170,7 +170,7 @@ As in: OOPs I used Java!
 
 **A:** With lambda functions
 
---
+---
 
 **Q:** How did pirates collaborate before computers ?
 
