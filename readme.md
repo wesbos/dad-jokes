@@ -225,3 +225,9 @@ As in: OOPs I used Java!
 **A:** Because he used up all his cache
 
 ---
+
+**Q:** What did the programmer say after he was fired because of bad practice?
+
+**A:** He refused to comment
+
+---
