@@ -225,3 +225,9 @@ As in: OOPs I used Java!
 **A:** Because he used up all his cache
 
 ---
+
+**Q:** Why is Python like the Soviet Union?
+
+**A:** Because it has no private fields
+
+---
