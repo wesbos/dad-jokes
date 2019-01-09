@@ -225,3 +225,9 @@ As in: OOPs I used Java!
 **A:** Because he used up all his cache
 
 ---
+
+**Q:** What did the browser have for dessert?
+
+**A:** Cookies!
+
+---
