@@ -225,3 +225,19 @@ As in: OOPs I used Java!
 **A:** Because he used up all his cache
 
 ---
+
+A SQL developer walked into a NoSQL bar.
+
+He left because he couldn't find a table.
+
+---
+
+**Q:** How many programmers does it take to change a light bulb?
+
+**A:** None, that's a hardware problem. 
+
+---
+
+**Q:** How do you fix JS errors?
+
+**A:** You `console` them!
