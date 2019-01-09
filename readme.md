@@ -4,6 +4,28 @@ submit your own, if they make me laugh I'll merge them.
 
 ---
 
+```
+[Please Enter New Password]
+
+fortnight
+
+[Error: Password is Two Week]
+```
+
+---
+
+**Q:** How many Prolog programmers does it take to change a lightbulb?
+
+**A:** Yes.
+
+---
+
+I’ve been hearing news about this big boolean.
+
+Huge if true.
+
+---
+
 **Q:**  What diet did the ghost developer go on?
 
 **A:** Boolean
