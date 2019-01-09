@@ -231,3 +231,9 @@ As in: OOPs I used Java!
 **A:** He refused to comment
 
 ---
+
+**Q:** What do they call the principal of Git school?
+
+**A:** ``HEAD --> master ``
+
+---
