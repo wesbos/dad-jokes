@@ -237,3 +237,9 @@ As in: OOPs I used Java!
 **A:** ``HEAD --> master ``
 
 ---
+
+**Q:** Asynchronous JavaScript is amazing.
+
+**A:** I Promise you.
+
+---
