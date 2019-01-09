@@ -225,3 +225,7 @@ As in: OOPs I used Java!
 **A:** Because he used up all his cache
 
 ---
+I ❤️Async Javascript.
+.
+.
+I Promise.
