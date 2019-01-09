@@ -225,3 +225,10 @@ As in: OOPs I used Java!
 **A:** Because he used up all his cache
 
 ---
+
+
+**Q:** Why did the document store database not get franchised?
+
+**A:** It has noSQL.
+
+---
