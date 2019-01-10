@@ -190,6 +190,12 @@ As in: OOPs I used Java!
 
 ---
 
+**Q:** Why did the SQL query leave the NoSQL bar?
+
+**A:** It couldn't find a table.
+
+---
+
 **Q:** ["hip","hip"]
 
 **A:** (hip hip array!)
