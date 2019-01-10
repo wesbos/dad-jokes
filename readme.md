@@ -225,3 +225,9 @@ As in: OOPs I used Java!
 **A:** Because he used up all his cache
 
 ---
+
+**Q:** Why don't parents teach their kids about regular expressions?
+
+**A:** Because they don't want them playing with matches
+
+---
