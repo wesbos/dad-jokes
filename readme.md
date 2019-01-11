@@ -225,3 +225,9 @@ As in: OOPs I used Java!
 **A:** Because he used up all his cache
 
 ---
+
+**Q:** Are computers dangerous?
+
+**A:** Nah, they don't byte. They just nibble a bit/
+
+---
