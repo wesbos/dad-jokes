@@ -225,3 +225,7 @@ As in: OOPs I used Java!
 **A:** Because he used up all his cache
 
 ---
+
+I've got a great UDP joke but I'm afraid you wouldn't get it...
+
+---
