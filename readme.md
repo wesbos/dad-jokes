@@ -225,3 +225,9 @@ As in: OOPs I used Java!
 **A:** Because he used up all his cache
 
 ---
+
+**Q:** How did the mafioso kill the Node server?
+
+**A:** Tie await to it and let it async.
+
+---
