@@ -1,6 +1,6 @@
 # Dad style programming jokes
 
-submit your own, if they make me laugh I'll merge them. 
+submit your own, if they make me laugh I'll merge them.
 
 ---
 
@@ -223,5 +223,11 @@ As in: OOPs I used Java!
 **Q:** Why did the developer go broke?
 
 **A:** Because he used up all his cache
+
+---
+
+**Q:** What did the female developer that can not understand husband's behavior do?
+
+**A:** man man
 
 ---
