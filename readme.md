@@ -279,3 +279,15 @@ As in: OOPs I used Java!
 **A:** Parsley.
 
 ---
+
+**Q:** A SQL developer walked into a NoSQL bar.
+
+**A:** He left because he couldn't find a table.
+
+---
+
+**Q:** How do you help JS errors?
+
+**A:** You `console` them!
+
+---
