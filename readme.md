@@ -225,3 +225,7 @@ As in: OOPs I used Java!
 **A:** Because he used up all his cache
 
 ---
+
+**Q:** Why do Java programmers need a pair of glasses?
+
+**A:** Because they can't see sharp
