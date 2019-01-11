@@ -238,6 +238,6 @@ He left because he couldn't find a table.
 
 ---
 
-**Q:** How do you fix JS errors?
+**Q:** How do you help JS errors?
 
 **A:** You `console` them!
