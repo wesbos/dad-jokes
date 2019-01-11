@@ -225,3 +225,7 @@ As in: OOPs I used Java!
 **A:** Because he used up all his cache
 
 ---
+
+**Q:** What did the fruit basket say to the developer?
+
+**A:** I hope you're ready for some pear programming!
