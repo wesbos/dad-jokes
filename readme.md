@@ -237,3 +237,9 @@ As in: OOPs I used Java!
 **A:** Even if you are wrong, you are only off by a bit.
 
 ---
+
+**Q:** Why couldn’t the user update a file on a shared server?
+
+**A:** They didn’t have the write permissions
+
+---
