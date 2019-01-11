@@ -226,7 +226,7 @@ As in: OOPs I used Java!
 
 ---
 
-**Q:** What did the female developer that can not understand husband's behavior do?
+**Q:** What do you do when you can't understand your husband's behavior?
 
 **A:** man man
 
