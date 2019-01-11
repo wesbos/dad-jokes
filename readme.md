@@ -10,9 +10,9 @@ submit your own, if they make me laugh I'll merge them.
 
 ---
 
-**Q:** Why was the developer unhappy at his job?
+**Q:** Why was the developer unhappy at their job?
 
-**A:** He wanted arrays.
+**A:** They wanted arrays.
 
 ---
 
@@ -24,13 +24,13 @@ submit your own, if they make me laugh I'll merge them.
 
 **Q:** Why was the function sad after a successful first call?
 
-**A:** He didn’t get a callback.
+**A:** It didn’t get a callback.
 
 ---
 
 **Q:** Why did the angry function exceed the callstack size?
 
-**A:** He got into an Argument with himself
+**A:** It got into an Argument with itself
 
 ---
 
@@ -40,9 +40,9 @@ submit your own, if they make me laugh I'll merge them.
 
 ---
 
-**Q:** Why did the developer ground his daughter?
+**Q:** Why did the developer ground their kid?
 
-**A:** She wasn't telling the truthy
+**A:** They weren't telling the truthy
 
 ---
 
@@ -120,7 +120,7 @@ The programmer comes home with 12 loaves of bread.
 
 **Q:** Why was the computer cold?
 
-**A:** It left its Windows open!
+**A:** It left it's Windows open!
 
 ---
 
@@ -132,7 +132,7 @@ The programmer comes home with 12 loaves of bread.
 
 **Q:** Why did the computer squeak?
 
-**A:** Because someone stepped on it's mouse!
+**A:** Because someone stepped on its mouse!
 
 ---
 
@@ -223,6 +223,24 @@ As in: OOPs I used Java!
 **Q:** Why did the developer go broke?
 
 **A:** Because he used up all his cache
+
+---
+
+**Q:** How did the mafioso kill the Node server?
+
+**A:** Tie await to it and let it async.
+
+---
+
+**Q:** You know what the best thing about booleans is?
+
+**A:** Even if you are wrong, you are only off by a bit.
+
+---
+
+**Q:** Why couldn’t the user update a file on a shared server?
+
+**A:** They didn’t have the write permissions
 
 ---
 
