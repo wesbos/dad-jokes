@@ -273,3 +273,9 @@ As in: OOPs I used Java!
 **A:** Put on some spam block for protection so they can safely surf the net while catching some .WAVs!
 
 ---
+
+**Q:** What's a compiler developer's favorite spice?
+
+**A:** Parsley.
+
+---
