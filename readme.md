@@ -309,3 +309,9 @@ As in: OOPs I used Java!
 **A:** She had one-to-many relationships.
 
 ---
+
+Asynchronous JavaScript is amazing.
+
+I Promise you.
+
+---
