@@ -303,3 +303,33 @@ As in: OOPs I used Java!
 **A:** Because it had no class!
 
 ---
+
+**Q:** Why did the constant break up with the variable?
+
+**A:** Because they changed.
+
+---
+
+**Q:** Why did the database administrator leave his wife?
+
+**A:** She had one-to-many relationships.
+
+---
+
+Asynchronous JavaScript is amazing.
+
+I Promise you.
+
+---
+
+**Q:** What did the Class say in court when put on trial?
+
+**A:** I strongly object!
+
+---
+
+**Q:** Why do Java developers wear glasses?
+
+**A:** Because they don't C#!
+
+---
