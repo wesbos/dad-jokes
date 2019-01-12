@@ -297,3 +297,9 @@ As in: OOPs I used Java!
 **A:** Because they don't want them playing with matches
 
 ---
+
+**Q:** Why did the constant break up with the variable?
+
+**A:** Because they changed.
+
+---
