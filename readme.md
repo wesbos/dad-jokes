@@ -339,3 +339,9 @@ I Promise you.
 **A:** Naming things and off-by-one errors
 
 ---
+
+**Q:** What did the fruit basket say to the developer?
+
+**A:** I hope you're ready for some pear programming!
+
+---
