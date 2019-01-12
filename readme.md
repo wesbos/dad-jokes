@@ -226,7 +226,7 @@ As in: OOPs I used Java!
 
 ---
 
-**Q:** Why didn't the <div /> get invited to any dinner parties?
+**Q:** Why didn't the `<div />` get invited to the dinner party?
 
 **A:** Because it had no class!
 
