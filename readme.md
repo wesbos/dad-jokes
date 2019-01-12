@@ -1,4 +1,5 @@
 # Dad style programming jokes
+### Programming puns that are armed and dad-ly.
 
 submit your own, if they make me laugh I'll merge them.
 
