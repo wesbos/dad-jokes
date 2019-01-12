@@ -315,3 +315,9 @@ Asynchronous JavaScript is amazing.
 I Promise you.
 
 ---
+
+**Q:** What did the Class say in court when put on trial?
+
+**A:** I strongly object!
+
+---
