@@ -321,3 +321,7 @@ I Promise you.
 **A:** I strongly object!
 
 ---
+
+**Q:** Why do Java developers wear glasses?
+
+**A:** Because they don't C#!
