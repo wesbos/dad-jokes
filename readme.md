@@ -297,3 +297,9 @@ As in: OOPs I used Java!
 **A:** Because they don't want them playing with matches
 
 ---
+
+**Q:** Why didn't the `<div />` get invited to the dinner party?
+
+**A:** Because it had no class!
+
+---
