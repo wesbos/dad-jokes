@@ -303,3 +303,9 @@ As in: OOPs I used Java!
 **A:** Because they changed.
 
 ---
+
+**Q:** Why did the database administrator leave his wife?
+
+**A:** She had one-to-many relationships.
+
+---
