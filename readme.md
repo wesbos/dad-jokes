@@ -190,9 +190,9 @@ As in: OOPs I used Java!
 
 ---
 
-**Q:** ["hip","hip"]
+**Q:** How does a developer make a cheer?
 
-**A:** (hip hip array!)
+**A:** ["hip","hip"] // (hip hip array!)
 
 ---
 
