@@ -1,5 +1,4 @@
 # Dad style programming jokes
-### Programming puns that are armed and dad-ly.
 
 submit your own, if they make me laugh I'll merge them.
 
@@ -299,6 +298,12 @@ As in: OOPs I used Java!
 
 ---
 
+**Q:** Why didn't the `<div />` get invited to the dinner party?
+
+**A:** Because it had no class!
+
+---
+
 **Q:** Why did the constant break up with the variable?
 
 **A:** Because they changed.
@@ -326,3 +331,5 @@ I Promise you.
 **Q:** Why do Java developers wear glasses?
 
 **A:** Because they don't C#!
+
+---
