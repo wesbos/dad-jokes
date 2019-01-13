@@ -248,6 +248,12 @@ As in: OOPs I used Java!
 
 ---
 
+**Q:** Are computers dangerous?
+
+**A:** Nah, they don't byte. They just nibble a bit.
+
+---
+
 **Q:** How did the mafioso kill the Node server?
 
 **A:** Tie await to it and let it async.
