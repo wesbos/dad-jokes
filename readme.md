@@ -4,6 +4,18 @@ submit your own, if they make me laugh I'll merge them.
 
 ---
 
+**Q:** What do you call a busy waiter?
+
+**A:** A server.
+
+---
+
+**Q:** What do you call an idle server?
+
+**A:** A waiter.
+
+---
+
 ```
 [Please Enter New Password]
 
