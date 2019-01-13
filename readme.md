@@ -4,6 +4,18 @@ submit your own, if they make me laugh I'll merge them.
 
 ---
 
+**Q:** What do you call a busy waiter?
+
+**A:** A server.
+
+---
+
+**Q:** What do you call an idle server?
+
+**A:** A waiter.
+
+---
+
 ```
 [Please Enter New Password]
 
@@ -379,5 +391,11 @@ I've got a great UDP joke but I'm afraid you wouldn't get it...
 ---
 
 A programmer was arrested for writing unreadable code. He refused to comment.
+
+---
+
+**Q:** I love you and I only love you. Does that turn you on?
+
+**AND GATE:** No.
 
 ---
