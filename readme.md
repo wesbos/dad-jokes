@@ -390,6 +390,10 @@ I've got a great UDP joke but I'm afraid you wouldn't get it...
 
 ---
 
+A programmer was arrested for writing unreadable code. He refused to comment.
+
+---
+
 **Q:** I love you and I only love you. Does that turn you on?
 
 **AND GATE:** No.
