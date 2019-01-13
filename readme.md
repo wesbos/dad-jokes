@@ -377,3 +377,9 @@ I Promise you.
 I've got a great UDP joke but I'm afraid you wouldn't get it...
 
 ---
+
+**Q:** I love you and I only love you. Does that turn you on?
+
+**AND GATE:** No.
+
+---
