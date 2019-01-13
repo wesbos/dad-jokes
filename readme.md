@@ -228,6 +228,6 @@ As in: OOPs I used Java!
 
 **Q:** Are computers dangerous?
 
-**A:** Nah, they don't byte. They just nibble a bit/
+**A:** Nah, they don't byte. They just nibble a bit.
 
 ---
