@@ -4,6 +4,12 @@ submit your own, if they make me laugh I'll merge them.
 
 ---
 
+**Q:** How did the developer announce his engagement?
+
+**A:** She `return`ed `true`!
+
+---
+
 **Q:** What do you call a busy waiter?
 
 **A:** A server.
