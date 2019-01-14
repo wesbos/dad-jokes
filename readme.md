@@ -409,3 +409,9 @@ There are 10 types of people in this world, those who understand binary and thos
 **AND GATE:** No.
 
 ---
+
+**Q:** Did I ever tell you about the time I stayed at a motel called The Fiddle?
+
+**A:** It was a vile inn.
+
+---
