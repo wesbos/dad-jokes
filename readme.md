@@ -394,6 +394,10 @@ A programmer was arrested for writing unreadable code. He refused to comment.
 
 ---
 
+There are 10 types of people in this world, those who understand binary and those who don't.
+
+---
+
 **Q:** I love you and I only love you. Does that turn you on?
 
 **AND GATE:** No.
