@@ -6,7 +6,7 @@ submit your own, if they make me laugh I'll merge them.
 
 **Q:** How did the developer announce their engagement?
 
-**A:** She `return`ed `true`!
+**A:** They `return`ed `true`!
 
 ---
 
