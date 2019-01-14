@@ -1,6 +1,40 @@
 # Dad style programming jokes
 
-submit your own, if they make me laugh I'll merge them. 
+submit your own, if they make me laugh I'll merge them.
+
+---
+
+**Q:** What do you call a busy waiter?
+
+**A:** A server.
+
+---
+
+**Q:** What do you call an idle server?
+
+**A:** A waiter.
+
+---
+
+```
+[Please Enter New Password]
+
+fortnight
+
+[Error: Password is Two Week]
+```
+
+---
+
+**Q:** How many Prolog programmers does it take to change a lightbulb?
+
+**A:** Yes.
+
+---
+
+I’ve been hearing news about this big boolean.
+
+Huge if true.
 
 ---
 
@@ -10,9 +44,9 @@ submit your own, if they make me laugh I'll merge them.
 
 ---
 
-**Q:** Why was the developer unhappy at his job?
+**Q:** Why was the developer unhappy at their job?
 
-**A:** He wanted arrays.
+**A:** They wanted arrays.
 
 ---
 
@@ -24,13 +58,13 @@ submit your own, if they make me laugh I'll merge them.
 
 **Q:** Why was the function sad after a successful first call?
 
-**A:** He didn’t get a callback.
+**A:** It didn’t get a callback.
 
 ---
 
 **Q:** Why did the angry function exceed the callstack size?
 
-**A:** He got into an Argument with himself
+**A:** It got into an Argument with itself
 
 ---
 
@@ -40,9 +74,9 @@ submit your own, if they make me laugh I'll merge them.
 
 ---
 
-**Q:** Why did the developer ground his daughter?
+**Q:** Why did the developer ground their kid?
 
-**A:** She wasn't telling the truthy
+**A:** They weren't telling the truthy
 
 ---
 
@@ -120,7 +154,7 @@ The programmer comes home with 12 loaves of bread.
 
 **Q:** Why was the computer cold?
 
-**A:** It left its Windows open!
+**A:** It left it's Windows open!
 
 ---
 
@@ -132,7 +166,7 @@ The programmer comes home with 12 loaves of bread.
 
 **Q:** Why did the computer squeak?
 
-**A:** Because someone stepped on it's mouse!
+**A:** Because someone stepped on its mouse!
 
 ---
 
@@ -190,9 +224,9 @@ As in: OOPs I used Java!
 
 ---
 
-**Q:** ["hip","hip"]
+**Q:** How does a developer make a cheer?
 
-**A:** (hip hip array!)
+**A:** ["hip","hip"] // (hip hip array!)
 
 ---
 
@@ -226,6 +260,146 @@ As in: OOPs I used Java!
 
 ---
 
-There are 10 types of people in this world, those who understand binary and those who dont
+**Q:** Are computers dangerous?
+
+**A:** Nah, they don't byte. They just nibble a bit.
+
+---
+
+**Q:** How did the mafioso kill the Node server?
+
+**A:** Tie await to it and let it async.
+
+---
+
+**Q:** You know what the best thing about booleans is?
+
+**A:** Even if you are wrong, you are only off by a bit.
+
+---
+
+**Q:** Why couldn’t the user update a file on a shared server?
+
+**A:** They didn’t have the write permissions
+
+---
+
+**Q:** What do you do when you can't understand your husband's behavior?
+
+**A:** man man
+
+---
+
+**Q:** How many developers does it take to change a light bulb? 
+
+**A:** None. It's a hardware issue
+
+---
+
+**Q:** Why do programmers always mix up Halloween and Christmas? 
+
+**A:** Because 31 OCT == 25 DEC
+
+---
+
+**Q:** What are computers' favorite snacks?
+
+**A:** Microchips, phish sticks, and cookies. But just a few bytes of each.
+
+---
+
+**Q:** What do computers love to do at the beach?
+
+**A:** Put on some spam block for protection so they can safely surf the net while catching some .WAVs!
+
+---
+
+**Q:** What's a compiler developer's favorite spice?
+
+**A:** Parsley.
+
+---
+
+**Q:** A SQL developer walked into a NoSQL bar.
+
+**A:** He left because he couldn't find a table.
+
+---
+
+**Q:** How do you help JS errors?
+
+**A:** You `console` them!
+
+---
+
+**Q:** Why don't parents teach their kids about regular expressions?
+
+**A:** Because they don't want them playing with matches
+
+---
+
+**Q:** Why didn't the `<div />` get invited to the dinner party?
+
+**A:** Because it had no class!
+
+---
+
+**Q:** Why did the constant break up with the variable?
+
+**A:** Because they changed.
+
+---
+
+**Q:** Why did the database administrator leave his wife?
+
+**A:** She had one-to-many relationships.
+
+---
+
+Asynchronous JavaScript is amazing.
+
+I Promise you.
+
+---
+
+**Q:** What did the Class say in court when put on trial?
+
+**A:** I strongly object!
+
+---
+
+**Q:** Why do Java developers wear glasses?
+
+**A:** Because they don't C#!
+
+---
+
+**Q:** What are the three hardest problems in computer science?
+
+**A:** Naming things and off-by-one errors
+
+---
+
+**Q:** What did the fruit basket say to the developer?
+
+**A:** I hope you're ready for some pear programming!
+
+---
+
+I've got a great UDP joke but I'm afraid you wouldn't get it...
+
+---
+
+A programmer was arrested for writing unreadable code. He refused to comment.
+
+---
+
+There are 10 types of people in this world, those who understand binary and those who don't.
+
+---
+
+**Q:** I love you and I only love you. Does that turn you on?
+
+**AND GATE:** No.
 
 ---
