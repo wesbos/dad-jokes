@@ -262,7 +262,7 @@ As in: OOPs I used Java!
 
 **Q:** Why did the developer go broke?
 
-**A:** Because he used up all his cache
+**A:** Because they used up all their cache
 
 ---
 
@@ -328,7 +328,7 @@ As in: OOPs I used Java!
 
 **Q:** A SQL developer walked into a NoSQL bar.
 
-**A:** He left because he couldn't find a table.
+**A:** They left because they couldn't find a table.
 
 ---
 
@@ -396,7 +396,7 @@ I've got a great UDP joke but I'm afraid you wouldn't get it...
 
 ---
 
-A programmer was arrested for writing unreadable code. He refused to comment.
+A programmer was arrested for writing unreadable code. They refused to comment.
 
 ---
 
