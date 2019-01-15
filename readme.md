@@ -228,6 +228,6 @@ As in: OOPs I used Java!
 
 **Q:** Why did the developer have to quit smoking?
 
-**A:** Because they imposed a new syntax.
+**A:** Because she couldn't afford to pay the new syntax.
 
 ---
