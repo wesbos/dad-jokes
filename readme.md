@@ -421,3 +421,9 @@ There are 10 types of people in this world, those who understand binary and thos
 **A:** I need a break.
 
 ---
+
+**Q:** An Agent died unexpectedly. How was the crime solved?
+
+**A:** By looking at the Stack Trace.
+
+---
