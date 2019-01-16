@@ -227,8 +227,8 @@ As in: OOPs I used Java!
 ---
 
 
-**Q:** Why did the document store database not get franchised?
+**Q:** Why did the document store go out of business?
 
-**A:** It has noSQL.
+**A:** It had NoSQL.
 
 ---
