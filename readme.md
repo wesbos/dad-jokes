@@ -409,3 +409,9 @@ There are 10 types of people in this world, those who understand binary and thos
 **AND GATE:** No.
 
 ---
+
+**Q:** Why do all HTML emails get blocked?
+
+**A:** Because they are all `<span />`.
+
+---
