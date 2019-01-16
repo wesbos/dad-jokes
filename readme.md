@@ -410,6 +410,18 @@ There are 10 types of people in this world, those who understand binary and thos
 
 ---
 
+**Q:** Why do all HTML emails get blocked?
+
+**A:** Because they are all `<span />`.
+
+---
+
+**Q:** What did the process say after working in an infinite loop all day? 
+
+**A:** I need a break.
+
+---
+
 **Q:** An Agent died unexpectedly. How was the crime solved?
 
 **A:** By looking at the Stack Trace.
