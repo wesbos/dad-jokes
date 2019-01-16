@@ -427,3 +427,10 @@ There are 10 types of people in this world, those who understand binary and thos
 **A:** By looking at the Stack Trace.
 
 ---
+
+
+**Q:** Why did the document store go out of business?
+
+**A:** It had NoSQL.
+
+---
