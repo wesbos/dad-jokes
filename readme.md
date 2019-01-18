@@ -226,26 +226,8 @@ As in: OOPs I used Java!
 
 ---
 
-**Q:** What did the programmer say after he was fired because of bad practice?
+**Q:** Why shouldn't you trust Matlab developers?
 
-**A:** He refused to comment
-
----
-
-**Q:** What do they call the principal of Git school?
-
-**A:** ``HEAD --> master ``
-
----
-
-**Q:** Asynchronous JavaScript is amazing.
-
-**A:** I Promise you.
-
----
-
-I never trust Matlab developers,
-
-they're always plotting something.
+**A:** Because they're always plotting something.
 
 ---
