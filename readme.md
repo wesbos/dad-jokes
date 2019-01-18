@@ -44,7 +44,7 @@ Huge if true.
 
 ---
 
-**Q:**  What diet did the ghost developer go on?
+**Q:** What diet did the ghost developer go on?
 
 **A:** Boolean
 
@@ -296,13 +296,13 @@ As in: OOPs I used Java!
 
 ---
 
-**Q:** How many developers does it take to change a light bulb? 
+**Q:** How many developers does it take to change a light bulb?
 
 **A:** None. It's a hardware issue
 
 ---
 
-**Q:** Why do programmers always mix up Halloween and Christmas? 
+**Q:** Why do programmers always mix up Halloween and Christmas?
 
 **A:** Because 31 OCT == 25 DEC
 
@@ -416,7 +416,7 @@ There are 10 types of people in this world, those who understand binary and thos
 
 ---
 
-**Q:** What did the process say after working in an infinite loop all day? 
+**Q:** What did the process say after working in an infinite loop all day?
 
 **A:** I need a break.
 
@@ -427,7 +427,6 @@ There are 10 types of people in this world, those who understand binary and thos
 **A:** By looking at the Stack Trace.
 
 ---
-
 
 **Q:** Why did the document store go out of business?
 
@@ -444,5 +443,9 @@ There are 10 types of people in this world, those who understand binary and thos
 **Q:** Why is Python like the Soviet Union?
 
 **A:** Because it has no private fields
+
+---
+
+Emacs is a great operating system, lacking only a decent text editor.
 
 ---
