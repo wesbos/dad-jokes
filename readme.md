@@ -441,7 +441,14 @@ There are 10 types of people in this world, those who understand binary and thos
 
 ---
 
+**Q:** Why is Python like the Soviet Union?
+
+**A:** Because it has no private fields
+
+---
+
 **Q:** Where did the API go to eat?
 **A:** To the RESTaurant
 
 ---
+
