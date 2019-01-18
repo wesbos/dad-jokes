@@ -458,3 +458,8 @@ There are 10 types of people in this world, those who understand binary and thos
 
 ---
 
+**Q:** Why did the developer have to quit smoking?
+
+**A:** Because they couldn't afford to pay the new syntax.
+
+---
