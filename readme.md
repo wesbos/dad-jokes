@@ -452,3 +452,9 @@ There are 10 types of people in this world, those who understand binary and thos
 
 ---
 
+**Q:** Why shouldn't you trust Matlab developers?
+
+**A:** Because they're always plotting something.
+
+---
+
