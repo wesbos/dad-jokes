@@ -440,3 +440,9 @@ There are 10 types of people in this world, those who understand binary and thos
 **A:** Because they don't agree on relationships.
 
 ---
+
+**Q:** Why is Python like the Soviet Union?
+
+**A:** Because it has no private fields
+
+---
