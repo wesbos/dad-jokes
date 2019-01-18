@@ -463,3 +463,9 @@ There are 10 types of people in this world, those who understand binary and thos
 **A:** Because they couldn't afford to pay the new syntax.
 
 ---
+
+**Q:** How does a programmer open a jar for their significant other?
+
+**A:** They install Java
+
+---
