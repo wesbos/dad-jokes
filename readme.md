@@ -434,3 +434,9 @@ There are 10 types of people in this world, those who understand binary and thos
 **A:** It had NoSQL.
 
 ---
+
+**Q:** Why can't SQL and NoSQL Developers date one other?
+
+**A:** Because they don't agree on relationships.
+
+---
