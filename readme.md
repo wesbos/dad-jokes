@@ -436,6 +436,6 @@ There are 10 types of people in this world, those who understand binary and thos
 ---
 
 **Q:** Where did the API go to eat?
-**A:** He went to the RESTaurant
+**A:** To the RESTaurant
 
 ---
