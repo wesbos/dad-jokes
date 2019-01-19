@@ -469,3 +469,7 @@ There are 10 types of people in this world, those who understand binary and thos
 **A:** They install Java
 
 ---
+
+**Q:** Where does the pirate stash all of his digital treasures?
+
+**A:** RAR
