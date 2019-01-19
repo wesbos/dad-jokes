@@ -449,3 +449,26 @@ There are 10 types of people in this world, those who understand binary and thos
 Emacs is a great operating system, lacking only a decent text editor.
 
 ---
+
+**Q:** Where did the API go to eat?
+**A:** To the RESTaurant
+
+---
+
+**Q:** Why shouldn't you trust Matlab developers?
+
+**A:** Because they're always plotting something.
+
+---
+
+**Q:** Why did the developer have to quit smoking?
+
+**A:** Because they couldn't afford to pay the new syntax.
+
+---
+
+**Q:** How does a programmer open a jar for their significant other?
+
+**A:** They install Java
+
+---
