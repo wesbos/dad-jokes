@@ -469,3 +469,9 @@ There are 10 types of people in this world, those who understand binary and thos
 **A:** They install Java
 
 ---
+
+**Q:** What did the psychic say to the developers?
+
+**A:** I see dev people.
+
+---
