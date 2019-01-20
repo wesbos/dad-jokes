@@ -470,6 +470,6 @@ There are 10 types of people in this world, those who understand binary and thos
 
 ---
 
-**Q:** Where does the pirate stash all of his digital treasures?
+**Q:** Where does the pirate stash all of their digital treasures?
 
 **A:** RAR
