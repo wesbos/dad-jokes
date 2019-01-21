@@ -296,13 +296,13 @@ As in: OOPs I used Java!
 
 ---
 
-**Q:** How many developers does it take to change a light bulb? 
+**Q:** How many developers does it take to change a light bulb?
 
 **A:** None. It's a hardware issue
 
 ---
 
-**Q:** Why do programmers always mix up Halloween and Christmas? 
+**Q:** Why do programmers always mix up Halloween and Christmas?
 
 **A:** Because 31 OCT == 25 DEC
 
@@ -416,7 +416,7 @@ There are 10 types of people in this world, those who understand binary and thos
 
 ---
 
-**Q:** What did the process say after working in an infinite loop all day? 
+**Q:** What did the process say after working in an infinite loop all day?
 
 **A:** I need a break.
 
@@ -448,6 +448,7 @@ There are 10 types of people in this world, those who understand binary and thos
 ---
 
 **Q:** Where did the API go to eat?
+
 **A:** To the RESTaurant
 
 ---
@@ -470,6 +471,14 @@ There are 10 types of people in this world, those who understand binary and thos
 
 ---
 
+**Q:** What did the psychic say to the developers?
+
+**A:** I see dev people.
+
+---
+
 **Q:** Where does the pirate stash all of their digital treasures?
 
 **A:** RAR
+
+---
