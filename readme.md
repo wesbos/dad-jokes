@@ -476,3 +476,9 @@ There are 10 types of people in this world, those who understand binary and thos
 **A:** I see dev people.
 
 ---
+
+**Q:** Where does the pirate stash all of their digital treasures?
+
+**A:** RAR
+
+---
