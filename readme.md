@@ -44,7 +44,7 @@ Huge if true.
 
 ---
 
-**Q:**  What diet did the ghost developer go on?
+**Q:** What diet did the ghost developer go on?
 
 **A:** Boolean
 
@@ -428,7 +428,6 @@ There are 10 types of people in this world, those who understand binary and thos
 
 ---
 
-
 **Q:** Why did the document store go out of business?
 
 **A:** It had NoSQL.
@@ -480,5 +479,11 @@ There are 10 types of people in this world, those who understand binary and thos
 **Q:** Where does the pirate stash all of their digital treasures?
 
 **A:** RAR
+
+---
+
+**Q:** What is React's favorite movie genre?
+
+**A:** Suspense
 
 ---
