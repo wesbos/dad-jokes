@@ -487,3 +487,9 @@ There are 10 types of people in this world, those who understand binary and thos
 **A:** Suspense
 
 ---
+
+**Q:** Why did the React class component feel relived?
+
+**A:** Because it was now off the hook.
+
+---
