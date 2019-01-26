@@ -487,3 +487,9 @@ There are 10 types of people in this world, those who understand binary and thos
 **A:** Suspense
 
 ---
+
+**Q:** What did XHR say to AJAX when it thought it was being a Mean Girl?
+
+**A:** Stop trying to make fetch happen!
+
+---
