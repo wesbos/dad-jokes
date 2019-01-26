@@ -493,3 +493,9 @@ There are 10 types of people in this world, those who understand binary and thos
 **A:** Because it was now off the hook.
 
 ---
+
+**Q:** Why couldn't the React component understand the joke?
+
+**A:** Because it didn't get the context.
+
+---
