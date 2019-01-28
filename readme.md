@@ -488,8 +488,8 @@ There are 10 types of people in this world, those who understand binary and thos
 
 ---
 
-**Q:** Why did the React class component feel relived?
+**Q:** Why couldn't the React component understand the joke?
 
-**A:** Because it was now off the hook.
+**A:** Because it didn't get the context.
 
 ---
