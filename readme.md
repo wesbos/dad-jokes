@@ -488,6 +488,12 @@ There are 10 types of people in this world, those who understand binary and thos
 
 ---
 
+**Q:** Why couldn't the React component understand the joke?
+
+**A:** Because it didn't get the context.
+
+---
+
 **Q:** What did XHR say to AJAX when it thought it was being a Mean Girl?
 
 **A:** Stop trying to make fetch happen!
