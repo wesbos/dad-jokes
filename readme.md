@@ -499,3 +499,9 @@ There are 10 types of people in this world, those who understand binary and thos
 **A:** Stop trying to make fetch happen!
 
 ---
+
+ **Q:** What was Grace Hopper's favorite car?
+
+ **A:** VW Bug
+
+ ---
