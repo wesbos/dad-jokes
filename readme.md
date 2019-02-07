@@ -505,3 +505,9 @@ There are 10 types of people in this world, those who understand binary and thos
  **A:** VW Bug
 
  ---
+ 
+  **Q:** Why did the C++ programmer break his keyboard?
+
+ **A:** He typed strongly.
+
+ ---
