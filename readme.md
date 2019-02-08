@@ -511,7 +511,3 @@ There are 10 types of people in this world, those who understand binary and thos
 **A:** Parroty error.
 
 ---
-
-Javascript refused entry to OOP party; said to lack class.
-
----
