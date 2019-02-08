@@ -511,3 +511,10 @@ There are 10 types of people in this world, those who understand binary and thos
 **A:** Parroty error.
 
 ---
+
+
+**Q:** Why did the programmer come home crying?"
+
+**A:** His friends were always boolean him.
+
+---
