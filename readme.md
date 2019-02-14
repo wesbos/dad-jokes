@@ -511,3 +511,11 @@ There are 10 types of people in this world, those who understand binary and thos
 **A:** Parroty error.
 
 ---
+
+**-** Knock Knock!
+
+**-** An async function
+
+**-** Who's there?
+
+---
