@@ -519,3 +519,8 @@ There are 10 types of people in this world, those who understand binary and thos
 **-** Who's there?
 
 ---
+
+**Q:** What PostgreSQL library should Python developers use for adult-oriented code?
+**A:** psycoPG13
+
+---
