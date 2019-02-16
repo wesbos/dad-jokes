@@ -524,3 +524,7 @@ There are 10 types of people in this world, those who understand binary and thos
 **A:** psycoPG13
 
 ---
+
+- Wife: Where are you?
+- Programmer: i'm out for a walk, why?
+- Wife: while you're out buy some milk (he never came back)
