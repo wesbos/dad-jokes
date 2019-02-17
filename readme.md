@@ -4,6 +4,12 @@ submit your own, if they make me laugh I'll merge them.
 
 ---
 
+**Q:** How do you get the code for the bank vault?
+
+**A:** You checkout their branch.
+
+---
+
 **Q:** How did the developer announce their engagement?
 
 **A:** They `return`ed `true`!
