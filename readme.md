@@ -4,6 +4,12 @@ submit your own, if they make me laugh I'll merge them.
 
 ---
 
+**Q:** How do you get the code for the bank vault?
+
+**A:** You checkout their branch.
+
+---
+
 **Q:** How did the developer announce their engagement?
 
 **A:** They `return`ed `true`!
@@ -512,9 +518,20 @@ There are 10 types of people in this world, those who understand binary and thos
 
 ---
 
-
 **Q:** Why did the programmer come home crying?"
 
 **A:** His friends were always boolean him.
 
 ---
+
+**-** Knock Knock!
+
+**-** An async function
+
+**-** Who's there?
+
+---
+
+**Q:** What PostgreSQL library should Python developers use for adult-oriented code?
+
+**A:** psycoPG13
