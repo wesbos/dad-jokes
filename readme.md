@@ -530,3 +530,8 @@ There are 10 types of people in this world, those who understand binary and thos
 **A:** psycoPG13
 
 ---
+
+**Q:** What did the Java code say to the C code?
+**A:** You have no class!
+
+---
