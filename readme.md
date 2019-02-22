@@ -518,6 +518,12 @@ There are 10 types of people in this world, those who understand binary and thos
 
 ---
 
+**Q:** Why did the programmer come home crying?"
+
+**A:** His friends were always boolean him.
+
+---
+
 **-** Knock Knock!
 
 **-** An async function
@@ -527,6 +533,5 @@ There are 10 types of people in this world, those who understand binary and thos
 ---
 
 **Q:** What PostgreSQL library should Python developers use for adult-oriented code?
-**A:** psycoPG13
 
----
+**A:** psycoPG13
