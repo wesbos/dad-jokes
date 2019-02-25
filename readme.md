@@ -535,3 +535,7 @@ There are 10 types of people in this world, those who understand binary and thos
 **Q:** What PostgreSQL library should Python developers use for adult-oriented code?
 
 **A:** psycoPG13
+
+---
+
+The next time you're using Safari or Firefox and it's running slowly, you can say to yourself, "[I could've had a V8](https://www.youtube.com/watch?v=ld8eAH0MW00)".
