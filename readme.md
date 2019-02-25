@@ -535,3 +535,9 @@ There are 10 types of people in this world, those who understand binary and thos
 **Q:** What PostgreSQL library should Python developers use for adult-oriented code?
 
 **A:** psycoPG13
+
+---
+
+**Q:** What did the JavaScript developer request as they were checking into the hotel?
+
+**A:** A room with a Vue.
