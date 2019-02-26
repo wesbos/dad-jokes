@@ -541,6 +541,6 @@ The next time you're using Safari or Firefox and it's running slowly, you can sa
 
 ---
 
-**Q:** What did the JavaScript developer request as they were checking into the hotel?
+**Q:** What accommodations did the JavaScript developer request at the hotel?
 
 **A:** A room with a Vue.
