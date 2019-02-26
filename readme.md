@@ -537,5 +537,10 @@ There are 10 types of people in this world, those who understand binary and thos
 **A:** psycoPG13
 
 ---
-
 The next time you're using Safari or Firefox and it's running slowly, you can say to yourself, "[I could've had a V8](https://www.youtube.com/watch?v=ld8eAH0MW00)".
+
+---
+
+**Q:** What accommodations did the JavaScript developer request at the hotel?
+
+**A:** A room with a Vue.
