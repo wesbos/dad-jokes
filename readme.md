@@ -551,3 +551,9 @@ The next time you're using Safari or Firefox and it's running slowly, you can sa
 **Q:** Where do developers drink?
 
 **A:** The Foo bar
+
+---
+
+**Q:** Why are you cleaning the path?
+
+**A:** Environment valuable.
