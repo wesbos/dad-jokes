@@ -374,6 +374,13 @@ I Promise you.
 
 ---
 
+Asynchronous JavaScript is amazing.
+
+I Promise you, await and see.
+
+---
+
+
 **Q:** What did the Class say in court when put on trial?
 
 **A:** I strongly object!
