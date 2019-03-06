@@ -567,5 +567,5 @@ The next time you're using Safari or Firefox and it's running slowly, you can sa
 
 ---
 
-Understanding CSS specificity is important, but deadlines are !importanter
+Understanding CSS specificity is important, but deadlines are !important
 
