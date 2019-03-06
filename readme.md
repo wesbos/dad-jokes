@@ -565,3 +565,7 @@ The next time you're using Safari or Firefox and it's running slowly, you can sa
 
 **A:** Because they work below C level.
 
+---
+
+Understanding CSS specificity is important, but deadlines are !importanter
+
