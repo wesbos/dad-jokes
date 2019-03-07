@@ -513,15 +513,21 @@ There are 10 types of people in this world, those who understand binary and thos
 
 ---
 
- **Q:** What was Grace Hopper's favorite car?
+**Q:** What was Grace Hopper's favorite car?
 
- **A:** VW Bug
+**A:** VW Bug
 
 ---
 
 **Q:** What sits on a pirate's shoulder and calls, "Pieces of seven, Pieces of seven"
 
 **A:** Parroty error.
+
+---
+
+**Q:** What is a pirate's favorite programming language?
+
+**A:** You'd think it was R, but a pirate's first love is Objectively C.
 
 ---
 
@@ -570,4 +576,3 @@ The next time you're using Safari or Firefox and it's running slowly, you can sa
 **Q:** Who used the internet before it was cool?
 
 **A:** Httpsters
-
