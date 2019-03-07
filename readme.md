@@ -565,3 +565,9 @@ The next time you're using Safari or Firefox and it's running slowly, you can sa
 
 **A:** Because they work below C level.
 
+---
+
+**Q:** Who used the internet before it was cool?
+
+**A:** Httpsters
+
