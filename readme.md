@@ -519,7 +519,7 @@ There are 10 types of people in this world, those who understand binary and thos
 
 ---
 
-**Q:** What sits on a pirate's shoulder and calls, "Pieces of seven, Pieces of seven"
+**Q:** What sits on a pirate's shoulder and calls, "Pieces of seven, Pieces of seven"?
 
 **A:** Parroty error.
 
@@ -558,7 +558,6 @@ The next time you're using Safari or Firefox and it's running slowly, you can sa
 
 **A:** A room with a Vue.
 
-
 ---
 
 **Q:** Where do developers drink?
@@ -576,3 +575,17 @@ The next time you're using Safari or Firefox and it's running slowly, you can sa
 **Q:** Who used the internet before it was cool?
 
 **A:** Httpsters
+
+---
+
+**Q:** Why did the web developer always go to the wrong hotel room?
+
+**A:** They were in room 301.
+
+---
+
+**Q:** 
+
+**A:** 
+
+---
