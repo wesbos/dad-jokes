@@ -374,6 +374,13 @@ I Promise you.
 
 ---
 
+Asynchronous JavaScript is amazing.
+
+I Promise you, await and see.
+
+---
+
+
 **Q:** What did the Class say in court when put on trial?
 
 **A:** I strongly object!
@@ -506,15 +513,21 @@ There are 10 types of people in this world, those who understand binary and thos
 
 ---
 
- **Q:** What was Grace Hopper's favorite car?
+**Q:** What was Grace Hopper's favorite car?
 
- **A:** VW Bug
+**A:** VW Bug
 
 ---
 
 **Q:** What sits on a pirate's shoulder and calls, "Pieces of seven, Pieces of seven"
 
 **A:** Parroty error.
+
+---
+
+**Q:** What is a pirate's favorite programming language?
+
+**A:** You'd think it was R, but a pirate's first love is Objectively C.
 
 ---
 
@@ -550,6 +563,18 @@ The next time you're using Safari or Firefox and it's running slowly, you can sa
 **Q:** Where do developers drink?
 
 **A:** The Foo bar
+
+---
+
+**Q:** Why do assembly programmers need to know how to swim?
+
+**A:** Because they work below C level.
+
+---
+
+**Q:** Who used the internet before it was cool?
+
+**A:** Httpsters
 
 ---
 
