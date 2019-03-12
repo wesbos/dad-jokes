@@ -558,7 +558,6 @@ The next time you're using Safari or Firefox and it's running slowly, you can sa
 
 **A:** A room with a Vue.
 
-
 ---
 
 **Q:** Where do developers drink?
@@ -576,3 +575,9 @@ The next time you're using Safari or Firefox and it's running slowly, you can sa
 **Q:** Who used the internet before it was cool?
 
 **A:** Httpsters
+
+---
+
+**Q:** What kind of computer can hold a musical note?
+
+**A:** A Dell.
