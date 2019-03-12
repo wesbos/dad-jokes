@@ -545,9 +545,14 @@ The next time you're using Safari or Firefox and it's running slowly, you can sa
 
 **A:** A room with a Vue.
 
-
 ---
 
 **Q:** Where do developers drink?
 
 **A:** The Foo bar
+
+---
+
+**Q:** What kind of computer can hold a musical note?
+
+**A:** A Dell.
