@@ -578,6 +578,12 @@ The next time you're using Safari or Firefox and it's running slowly, you can sa
 
 ---
 
+**Q:** What kind of computer can hold a musical note?
+
+**A:** A Dell.
+
+---
+
 **Q:** Why did the web developer always go to the wrong hotel room?
 
 **A:** They were in room 301.
