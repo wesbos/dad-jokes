@@ -590,8 +590,8 @@ The next time you're using Safari or Firefox and it's running slowly, you can sa
 
 ---
 
-**Q:** 
+**Q:** How do you stop a web developer stealing your stuff?
 
-**A:** 
+**A:** Write 403 on it.
 
 ---
