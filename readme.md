@@ -595,3 +595,7 @@ The next time you're using Safari or Firefox and it's running slowly, you can sa
 **A:** Write 403 on it.
 
 ---
+
+**Q:** Why are machine learning models so fit?
+
+**A:** Because they do weight training.
