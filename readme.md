@@ -581,3 +581,9 @@ The next time you're using Safari or Firefox and it's running slowly, you can sa
 **Q:** What kind of computer can hold a musical note?
 
 **A:** A Dell.
+
+---
+
+**Q:** Why are machine learning models so fit?
+
+**A:** Because they do weight training.
