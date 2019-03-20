@@ -370,12 +370,6 @@ As in: OOPs I used Java!
 
 Asynchronous JavaScript is amazing.
 
-I Promise you.
-
----
-
-Asynchronous JavaScript is amazing.
-
 I Promise you, await and see.
 
 ---
