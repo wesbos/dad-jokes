@@ -598,4 +598,4 @@ The next time you're using Safari or Firefox and it's running slowly, you can sa
 
 **Q:** Why did Gargamel shut down the internet?
 
-**A:** Because He didn't want people **SMURFING** the web.
+**A:** Because he didn't want people **SMURFING** the web!
