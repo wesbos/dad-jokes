@@ -599,3 +599,11 @@ The next time you're using Safari or Firefox and it's running slowly, you can sa
 **Q:** Why did Gargamel shut down the internet?
 
 **A:** Because he didn't want people **SMURFING** the web!
+
+---
+
+**Q**: What did the command line die of?
+
+**A**: A Terminal illness.
+
+—--
