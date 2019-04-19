@@ -608,7 +608,7 @@ The next time you're using Safari or Firefox and it's running slowly, you can sa
 
 ---
 
-**Q**: Did you heard what the clumsy cryptographer did to their password?
+**Q**: Did you hear what the clumsy cryptographer did to their password?
 
 **A**: Made a hash of it.
 
