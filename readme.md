@@ -623,3 +623,10 @@ The next time you're using Safari or Firefox and it's running slowly, you can sa
 **Q**: Why does C always get all the girls and Java doesn't?
 
 **A**: Because C doesn't treat them like objects but if C wants to help, it could give Java some pointers.
+
+---
+
+A developer's son saw a snake laying on their door step and shouted: *Dad, there is a Python on our door step!!*
+The developer replied: *okay I'm coming with my IDLE*.
+
+---
