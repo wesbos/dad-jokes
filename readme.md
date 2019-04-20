@@ -619,3 +619,7 @@ The next time you're using Safari or Firefox and it's running slowly, you can sa
 **A**: Cause they have two shifts!
 
 ---
+
+**Q**: Why does C always get all the girls and Java doesn't?
+
+**A**: Because C doesn't treat them like objects but if C wants to help, it could give Java some pointers.
