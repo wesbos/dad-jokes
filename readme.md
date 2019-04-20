@@ -613,3 +613,9 @@ The next time you're using Safari or Firefox and it's running slowly, you can sa
 **A**: Made a hash of it.
 
 —--
+
+**Q**: Why are keyboards always awake?
+
+**A**: Cause they have two shifts!
+
+---
