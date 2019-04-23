@@ -308,6 +308,12 @@ As in: OOPs I used Java!
 
 ---
 
+**Q:** How many hardware engineers does it take to change a light bulb?
+
+**A:** None. We'll get software to program around it.
+
+---
+
 **Q:** Why do programmers always mix up Halloween and Christmas?
 
 **A:** Because 31 OCT == 25 DEC
