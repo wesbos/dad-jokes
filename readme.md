@@ -622,4 +622,10 @@ The next time you're using Safari or Firefox and it's running slowly, you can sa
 
 **A**: Cause they have two shifts!
 
-—--
+---
+
+**Q**: What are clouds made of?
+
+**A**: Mostly linux servers.
+
+---
