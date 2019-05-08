@@ -629,3 +629,9 @@ The next time you're using Safari or Firefox and it's running slowly, you can sa
 **A**: Mostly linux servers.
 
 ---
+
+**Q**: How does Mr. Potato Head (dev edition 0.0.1) remove his mustache?
+
+**A**: git stache pop
+
+---
