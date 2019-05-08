@@ -629,3 +629,9 @@ The next time you're using Safari or Firefox and it's running slowly, you can sa
 **A**: Mostly linux servers.
 
 ---
+
+**Q**: Why did Tom Selleck never git commit anything?
+
+**A**: Because he thought he mustache his work.
+
+---
