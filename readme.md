@@ -132,6 +132,12 @@ It's funny 'cause it's true.
 
 ---
 
+**Q:** Why doesn't Hollywood make more Big Data movies?
+
+**A:** NoSQL.
+
+---
+
 A programmer's significant other tells them, "Run to the store and pick up a loaf of bread. If they have eggs, get a dozen."
 
 The programmer comes home with 12 loaves of bread.
@@ -219,6 +225,12 @@ As in: OOPs I used Java!
 **Q:** How do programming shepherds count their flock?
 
 **A:** With lambda functions
+
+---
+
+**Q:** What airline do developers prefer when they're in a rush?
+
+**A:** Delta.
 
 ---
 
@@ -628,4 +640,16 @@ The next time you're using Safari or Firefox and it's running slowly, you can sa
 
 **A**: Cause they have two shifts!
 
-—--
+---
+
+**Q**: What are clouds made of?
+
+**A**: Mostly linux servers.
+
+---
+
+**Q**: How does Mr. Potato Head (dev edition 0.0.1) remove his mustache?
+
+**A**: git stache pop
+
+---
