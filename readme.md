@@ -647,3 +647,9 @@ The next time you're using Safari or Firefox and it's running slowly, you can sa
 **A**: git stache pop
 
 ---
+
+**Q**: Why do women like sockets?
+￼
+**A**: Cause they are good listeners.
+
+---
