@@ -653,3 +653,22 @@ The next time you're using Safari or Firefox and it's running slowly, you can sa
 **A**: Because it isn't `stroganoff`
 
 ---
+    Would you like to hear a joke about SYN flood attacks?
+
+Yes, you can send me a joke about SYN flood attacks now!
+
+    Would you like to hear a joke about SYN flood attacks?
+
+Yes, you can send me a joke about SYN flood attacks now!
+
+    Would you like to hear a joke about SYN flood attacks?
+
+Yes, you can send me a joke about SYN flood attacks now!
+
+    Would you like to hear a joke about SYN flood attacks?
+
+Yes, you can send me a joke about SYN flood attacks now!
+
+    Would you like to hear a joke about SYN flood attacks?
+
+Yes, you can send me a joke about SYN flood attacks now!
