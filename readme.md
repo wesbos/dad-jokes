@@ -174,7 +174,7 @@ The programmer comes home with 12 loaves of bread.
 
 ---
 
-**Q:** Why was the computer cold?
+**Q:** Why was the computer freezing?
 
 **A:** It left its Windows open!
 
