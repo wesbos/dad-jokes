@@ -22,7 +22,7 @@ Unfortunately these jokes only work if you git them.
 
 **Q:** Why did the security conscious engineer refuse to pay his dinner bill?
 
-**A:** Because he couldn't verify the checksum.
+**A:** Because he could not verify the checksum.
 
 ---
 
