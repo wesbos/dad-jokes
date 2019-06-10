@@ -20,6 +20,12 @@ Unfortunately these jokes only work if you git them.
 
 ---
 
+**Q:** Why did the security conscious engineer refuse to pay his dinner bill?
+
+**A:** Because he couldn't verify the checksum.
+
+---
+
 **Q:** What do you call a busy waiter?
 
 **A:** A server.
