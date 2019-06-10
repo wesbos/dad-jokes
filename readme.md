@@ -330,6 +330,12 @@ As in: OOPs I used Java!
 
 ---
 
+**Q:** Why do kayakers make bad programmers?
+
+**A:** Because they're afraid of waterfall.
+
+---
+
 **Q:** What are computers' favorite snacks?
 
 **A:** Microchips, phish sticks, and cookies. But just a few bytes of each.
