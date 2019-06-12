@@ -20,6 +20,12 @@ Unfortunately these jokes only work if you git them.
 
 ---
 
+**Q:** Why did the security conscious engineer refuse to pay their dinner bill?
+
+**A:** Because they could not verify the checksum.
+
+---
+
 **Q:** What do you call a busy waiter?
 
 **A:** A server.
@@ -174,7 +180,7 @@ The programmer comes home with 12 loaves of bread.
 
 ---
 
-**Q:** Why was the computer cold?
+**Q:** Why was the computer freezing?
 
 **A:** It left its Windows open!
 
@@ -327,6 +333,12 @@ As in: OOPs I used Java!
 **Q:** Why do programmers always mix up Halloween and Christmas?
 
 **A:** Because 31 OCT == 25 DEC
+
+---
+
+**Q:** Why do kayakers make bad programmers?
+
+**A:** Because they're afraid of waterfall.
 
 ---
 
