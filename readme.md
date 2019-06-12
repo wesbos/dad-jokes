@@ -665,3 +665,7 @@ The next time you're using Safari or Firefox and it's running slowly, you can sa
 **A**: Because it isn't `stroganoff`
 
 ---
+
+**Q**: How many programmers does it take to change a light bulb?
+
+**A**: None. That's a hardware problem :bulb:
