@@ -666,7 +666,7 @@ The next time you're using Safari or Firefox and it's running slowly, you can sa
 
 ---
 
-**Q**: Why developers use mechanical keyboard?
+**Q**: Why do developers use mechanical keyboards?
 
 **A**: To strongly type their code.
 
