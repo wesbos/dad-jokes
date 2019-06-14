@@ -225,3 +225,9 @@ As in: OOPs I used Java!
 **A:** Because he used up all his cache
 
 ---
+
+**Q:** I'm selling my 8 bit computer. Do you want to buy it? The price is $256.
+
+**A:** Sure! Give me $1 and it's all mine.
+
+**Q:** Deal. You'll have to come and get it, I can't carry it.
