@@ -665,3 +665,16 @@ The next time you're using Safari or Firefox and it's running slowly, you can sa
 **A**: Because it isn't `stroganoff`
 
 ---
+
+**Q**: Why do developers use mechanical keyboards?
+
+**A**: To strongly type their code.
+
+---
+
+A new database query walks into a bar. 
+
+The server says "Sorry, cache only."
+
+---
+
