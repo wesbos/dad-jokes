@@ -666,6 +666,20 @@ The next time you're using Safari or Firefox and it's running slowly, you can sa
 
 ---
 
-**Q**: How many programmers does it take to change a light bulb?
+**Q**: Why do developers use mechanical keyboards?
 
-**A**: None. That's a hardware problem :bulb:
+**A**: To strongly type their code.
+
+---
+
+A new database query walks into a bar. 
+
+The server says "Sorry, cache only."
+
+---
+
+What's the best tool for automatically ignoring long email threads about tech buzzwords?
+
+"Block-chain"
+
+---
