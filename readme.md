@@ -683,3 +683,7 @@ What's the best tool for automatically ignoring long email threads about tech bu
 "Block-chain"
 
 ---
+
+**Q**: What is a developer's favorite country song?
+
+**A**: Hello World - by Lady Antebellum
