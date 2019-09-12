@@ -693,3 +693,9 @@ What's the best tool for automatically ignoring long email threads about tech bu
 **Q**: Why was nobody given food at the developer conference?
 
 **A**: It was a serverless function!
+
+---
+
+**Q**: Why did the developer cancel their dinner plans?
+
+**A**: They were unable to fulfil peer dependencies 
