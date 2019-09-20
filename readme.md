@@ -702,9 +702,9 @@ What's the best tool for automatically ignoring long email threads about tech bu
 
 ---
 
-**Q**: Why did the functional programmer move back in with their ex?
+**Q**: Why do cryptographers never have more than 2 kids?
 
-**A**: For(e) closure
+**A**: Because after Alice and Bob, they can't think up any more new names
 
 ---
 
