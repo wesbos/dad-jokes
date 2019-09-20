@@ -699,3 +699,31 @@ What's the best tool for automatically ignoring long email threads about tech bu
 **Q**: Why did the developer cancel their dinner plans?
 
 **A**: They were unable to fulfil peer dependencies 
+
+---
+
+**Q**: Why did the functional programmer finally move out of his house?
+
+**A**: For(e) closure
+
+---
+
+**Q**: Why does the annual developers conference only serve 3/4 sandwiches for lunch?
+
+**A**: Because it's held at a foo bar
+
+---
+
+**Q**: Why did the traffic cop cite the Lamborghini doing 120mph for driving 3mph over the speed limit in a 75mph zone?
+
+**A**: She used to be an assembly coder
+
+---
+
+**Q**: Why did the computer scientist cross the road then cross back again
+
+**A**: To maintain parity
+
+---
+
+---
