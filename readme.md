@@ -702,7 +702,7 @@ What's the best tool for automatically ignoring long email threads about tech bu
 
 ---
 
-**Q**: Why did the functional programmer move back in with their ex?
+**Q**: Why did the functional programmer finally move out of their house?
 
 **A**: For(e) closure
 
