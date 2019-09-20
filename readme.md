@@ -699,3 +699,12 @@ What's the best tool for automatically ignoring long email threads about tech bu
 **Q**: Why did the developer cancel their dinner plans?
 
 **A**: They were unable to fulfil peer dependencies 
+
+---
+
+**Q**: Why do cryptographers never have more than 2 kids?
+
+**A**: Because after Alice and Bob, they can't think of any other names
+
+---
+
