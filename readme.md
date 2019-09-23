@@ -708,3 +708,9 @@ What's the best tool for automatically ignoring long email threads about tech bu
 
 ---
 
+**Q**: How do you make a person "final"?
+
+**A**: By getting him a vasectomy (So he cannot have children).
+
+---
+
