@@ -708,7 +708,7 @@ What's the best tool for automatically ignoring long email threads about tech bu
 
 ---
 
-**Q:** How JavaScript developers break up
+**Q:** How do JavaScript developers break up?
 
 **A:** They always promise to callback
 
