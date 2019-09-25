@@ -708,3 +708,8 @@ What's the best tool for automatically ignoring long email threads about tech bu
 
 ---
 
+**Q**: Why should you avoid the number 57005 around witches?
+
+**A**: In case one casts a hex on you.
+
+---
