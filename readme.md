@@ -714,8 +714,8 @@ What's the best tool for automatically ignoring long email threads about tech bu
 
 ---
 
-**Q:** Why is the command line trustworthy?
+**Q:** Why do developers mixup Terminals and Polygraphs?
 
-**A:** Because they can see a lie (CLI)
+**A:** Because they both can see a lie (CLI)
 
 ---
