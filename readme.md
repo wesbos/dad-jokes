@@ -714,6 +714,12 @@ What's the best tool for automatically ignoring long email threads about tech bu
 
 ---
 
+**Q:** Why do developers mixup Terminals and Polygraphs?
+
+**A:** Because they both can see a lie (CLI)
+
+---
+
 **Q:** Did you hear about the programmer that was scared of IDEs?
 
 **A:** They retreated back into their shell
