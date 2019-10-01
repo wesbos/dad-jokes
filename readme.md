@@ -713,3 +713,9 @@ What's the best tool for automatically ignoring long email threads about tech bu
 **A:** They always promise to callback
 
 ---
+
+**Q:** Why is the command line trustworthy?
+
+**A:** Because they can see a lie (CLI)
+
+---
