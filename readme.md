@@ -713,3 +713,9 @@ What's the best tool for automatically ignoring long email threads about tech bu
 **A:** They always promise to callback
 
 ---
+
+**Q:** Did you hear about the programmer that was scared of IDEs?
+
+**A:** They retreated back into their shell
+
+---
