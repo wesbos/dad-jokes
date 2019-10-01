@@ -725,3 +725,9 @@ What's the best tool for automatically ignoring long email threads about tech bu
 **A:** They retreated back into their shell
 
 ---
+
+**Q:** What did the egg say when he got to drunk?
+
+**A:** Omelette!
+
+---
