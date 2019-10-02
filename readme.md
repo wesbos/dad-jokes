@@ -726,7 +726,7 @@ What's the best tool for automatically ignoring long email threads about tech bu
 
 ---
 
-**Q:** What did the egg say when he got to drunk?
+**Q:** What did the egg say when he got too drunk?
 
 **A:** Omelette!
 
