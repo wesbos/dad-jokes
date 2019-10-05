@@ -725,3 +725,9 @@ What's the best tool for automatically ignoring long email threads about tech bu
 **A:** They retreated back into their shell
 
 ---
+**Q:** How many programmers does it take to change a light bulb?
+
+**A:** none, that’s a hardware problem
+
+---
+
