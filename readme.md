@@ -725,3 +725,9 @@ What's the best tool for automatically ignoring long email threads about tech bu
 **A:** They retreated back into their shell
 
 ---
+
+**Q:** Why does that function look lost?
+
+**A:** It's serverless.
+
+---
