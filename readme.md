@@ -725,3 +725,9 @@ What's the best tool for automatically ignoring long email threads about tech bu
 **A:** They retreated back into their shell
 
 ---
+
+**Q:** What do you call optimistic front-end developers?
+
+**A:** Stack half-full developers.
+
+---
