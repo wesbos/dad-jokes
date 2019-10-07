@@ -726,8 +726,8 @@ What's the best tool for automatically ignoring long email threads about tech bu
 
 ---
 
-**Q:** Why does that function look lost?
+**Q:** Why is the function lost?
 
-**A:** It's serverless.
+**A:** Because it's server-less.
 
 ---
