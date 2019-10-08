@@ -402,7 +402,6 @@ I Promise you, await and see.
 
 ---
 
-
 **Q:** What did the Class say in court when put on trial?
 
 **A:** I strongly object!
@@ -572,6 +571,7 @@ There are 10 types of people in this world, those who understand binary and thos
 **A:** psycoPG13
 
 ---
+
 The next time you're using Safari or Firefox and it's running slowly, you can say to yourself, "[I could've had a V8](https://www.youtube.com/watch?v=ld8eAH0MW00)".
 
 ---
@@ -672,7 +672,7 @@ The next time you're using Safari or Firefox and it's running slowly, you can sa
 
 ---
 
-A new database query walks into a bar. 
+A new database query walks into a bar.
 
 The server says "Sorry, cache only."
 
@@ -698,7 +698,7 @@ What's the best tool for automatically ignoring long email threads about tech bu
 
 **Q**: Why did the developer cancel their dinner plans?
 
-**A**: They were unable to fulfil peer dependencies 
+**A**: They were unable to fulfil peer dependencies
 
 ---
 
@@ -732,10 +732,14 @@ What's the best tool for automatically ignoring long email threads about tech bu
 
 ---
 
-
 **Q:** Have you heard the one about the Corduroy pillow?
 
 **A:** It's making HEADLINES!
 
 ---
 
+**Q:** Hey officer! How did the hackers escape?
+
+**A:** No idea. They just ransomware.
+
+---
