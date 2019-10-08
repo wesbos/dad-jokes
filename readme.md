@@ -731,3 +731,11 @@ What's the best tool for automatically ignoring long email threads about tech bu
 **A:** Stack half-full developers.
 
 ---
+
+
+**Q:** Have you heard the one about the Corduroy pillow?
+
+**A:** It's making HEADLINES!
+
+---
+
