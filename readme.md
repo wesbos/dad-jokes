@@ -732,6 +732,6 @@ What's the best tool for automatically ignoring long email threads about tech bu
 
 ---
 
-Chuck Norris can take a screen shot of his blue screen.
+Chuck Norris can take a screenshot of his blue screen.
 
 ---
