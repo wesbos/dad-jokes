@@ -731,3 +731,7 @@ What's the best tool for automatically ignoring long email threads about tech bu
 **A:** Stack half-full developers.
 
 ---
+
+Chuck Norris can take a screen shot of his blue screen.
+
+---
