@@ -743,3 +743,8 @@ What's the best tool for automatically ignoring long email threads about tech bu
 **A:** No idea. They just ransomware.
 
 ---
+**Q:** Dad, can you put my shoes on?
+
+**A:** I don’t think they’ll fit me.
+
+---
