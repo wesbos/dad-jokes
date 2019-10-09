@@ -744,18 +744,14 @@ What's the best tool for automatically ignoring long email threads about tech bu
 
 ---
 
+**Q:** Why did the data engineer get fired from his job as a hat maker?
 
-**Q:** Why did the data engineer get fired from his job as a hat maker? 
-
-**A:** He could only make two thirds of a cap!
-
----
-
-
-**Q:** Why was the hippie such a good database administrator?
-
-**A:** He knew so much about acid
+**A:** He could only make two thirds of a CAP!
 
 ---
 
+**Q:** How did the hippie learn about database transactions?
 
+**A:** By taking ACID
+
+---
