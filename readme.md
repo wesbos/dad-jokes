@@ -744,6 +744,18 @@ What's the best tool for automatically ignoring long email threads about tech bu
 
 ---
 
+**Q:** Why can’t data engineers become hat makers?
+
+**A:** They can only guarantee two thirds of a CAP!
+
+---
+
+**Q:** How did the hippie learn about database transactions?
+
+**A:** By taking ACID
+
+---
+
 **Q:** Why is it called the Dark Ages?
 
 **A:** There were a lot of KNIGHTS!
