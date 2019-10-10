@@ -749,3 +749,11 @@ What's the best tool for automatically ignoring long email threads about tech bu
 **A:** There were a lot of KNIGHTS!
 
 ---
+
+---
+
+**Q:** Why working in AI is considered 'cool' ?
+
+**A:** coz you can work with models everyday!
+
+---
