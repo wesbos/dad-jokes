@@ -755,3 +755,9 @@ What's the best tool for automatically ignoring long email threads about tech bu
 **A:** By taking ACID
 
 ---
+
+**Q:** Why is it called the Dark Ages?
+
+**A:** There were a lot of KNIGHTS!
+
+---
