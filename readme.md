@@ -761,3 +761,43 @@ What's the best tool for automatically ignoring long email threads about tech bu
 **A:** There were a lot of KNIGHTS!
 
 ---
+
+---
+
+**Q:** What job did Spiderman get at the new start-up?
+
+**A:** Friendly Neighborhood Web Developer
+
+---
+
+---
+
+**Q:** Did you hear about Nickelodeon's kid's text editor?
+
+**A:** It was called Invader Vim.
+
+---
+
+---
+
+**Q:** Why did Kanye try and hack Apple?
+
+**A:** They kept choosing to write in Swift.
+
+---
+
+---
+
+**Q:** Why did the stoner go to the hackathon?
+
+**A:** He heard they would discuss Hash-maps.
+
+---
+
+---
+
+**Q:** Why was the teenager so impressed with the decimal system?
+
+**A:** It got all the way to Base-10.
+
+---
