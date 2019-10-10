@@ -744,9 +744,9 @@ What's the best tool for automatically ignoring long email threads about tech bu
 
 ---
 
-**Q:** Why did the data engineer get fired from his job as a hat maker?
+**Q:** Why can’t data engineers become hat makers?
 
-**A:** He could only make two thirds of a CAP!
+**A:** They can only guarantee two thirds of a CAP!
 
 ---
 
