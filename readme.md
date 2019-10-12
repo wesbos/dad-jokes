@@ -351,6 +351,10 @@ As in: OOPs I used Java!
 **Q:** What do computers love to do at the beach?
 
 **A:** Put on some spam block for protection so they can safely surf the net while catching some .WAVs!
+---
+**Q:**  What do you call a computer that sings?
+
+**A:** A-dell.
 
 ---
 
