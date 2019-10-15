@@ -766,3 +766,23 @@ What's the best tool for automatically ignoring long email threads about tech bu
 **A:** There were a lot of KNIGHTS!
 
 ---
+
+**Q:** A journalist asked a programmer "What makes a code bad?"
+
+**A:** No Comment
+
+--
+
+**Q:** Why do programmers always mix up Halloween and Christmas?
+
+**A:** Because Oct 31 equals Dec 25
+
+--
+**-** Statistics shows that statistics cannot be trusted
+
+--
+
+**Q:** How do you raise a billion dollar for your coffee business in silicon valley ? 
+**A:** cYou rename the business to DeepCoffee.AI
+
+--
