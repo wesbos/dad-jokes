@@ -765,3 +765,9 @@ What's the best tool for automatically ignoring long email threads about tech bu
 **A:** There were a lot of KNIGHTS!
 
 ---
+
+**Q:** Why did the DB Admin simply walked out of a NoSQL bar ?
+
+**A:** coz he couldn’t find any tables :)
+
+---
