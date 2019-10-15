@@ -765,3 +765,9 @@ What's the best tool for automatically ignoring long email threads about tech bu
 **A:** There were a lot of KNIGHTS!
 
 ---
+
+**Q:** Why web developer couldn't find the door?
+
+**A:** Because it was ring 404!
+
+---
