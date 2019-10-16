@@ -353,7 +353,8 @@ As in: OOPs I used Java!
 **A:** Put on some spam block for protection so they can safely surf the net while catching some .WAVs!
 
 ---
-**Q:**  What do you call a computer that sings?
+
+**Q:** What do you call a computer that sings?
 
 **A:** A-dell.
 
@@ -764,5 +765,11 @@ What's the best tool for automatically ignoring long email threads about tech bu
 **Q:** Why is it called the Dark Ages?
 
 **A:** There were a lot of KNIGHTS!
+
+---
+
+**Q:** What's your problem?
+
+**A:** It hurts when IP
 
 ---
