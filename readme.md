@@ -768,7 +768,7 @@ What's the best tool for automatically ignoring long email threads about tech bu
 
 ---
 
-**Q:** What's your problem?
+**Q:** What did the Network Administrator say when they caught a nasty virus?
 
 **A:** It hurts when IP
 
