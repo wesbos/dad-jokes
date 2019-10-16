@@ -766,3 +766,9 @@ What's the best tool for automatically ignoring long email threads about tech bu
 **A:** There were a lot of KNIGHTS!
 
 ---
+
+**Q:** Why was the script sad?
+
+**A:** Everyone was `bash` ing it.
+
+---
