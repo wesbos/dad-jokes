@@ -776,6 +776,6 @@ What's the best tool for automatically ignoring long email threads about tech bu
 
 **Q:** Which programming language is the shortest?
 
-**A:** HTML. Because it doesn't have neck between its head and body.
+**A:** HTML. Because it doesn't have a neck between its `<head>` and `<body>`.
 
 ---
