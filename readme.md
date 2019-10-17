@@ -773,3 +773,9 @@ What's the best tool for automatically ignoring long email threads about tech bu
 **A:** It hurts when IP
 
 ---
+
+**Q:** Which programming language is the shortest?
+
+**A:** HTML. Because it doesn't have neck between its head and body.
+
+---
