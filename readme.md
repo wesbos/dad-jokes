@@ -779,3 +779,15 @@ What's the best tool for automatically ignoring long email threads about tech bu
 **A:** HTML. Because it doesn't have a neck between its `<head>` and `<body>`.
 
 ---
+
+**Q**: What good can come of 2989 witches casting a hex?
+
+**A**: None, it is always 0xBAD
+
+---
+
+**Q**: Did you here about the witch who was off by two when casting a hex?
+
+**A**: They failed to make the target DEAD and made them DEAF instead!
+
+---
