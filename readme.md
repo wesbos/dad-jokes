@@ -1,6 +1,6 @@
 # Dad style programming jokes
 
-submit your own, if they make me laugh I'll merge them.
+> submit your own, if they make me laugh I'll merge them.
 
 ---
 
@@ -354,6 +354,12 @@ As in: OOPs I used Java!
 
 ---
 
+**Q:** What do you call a computer that sings?
+
+**A:** A-dell.
+
+---
+
 **Q:** What's a compiler developer's favorite spice?
 
 **A:** Parsley.
@@ -401,7 +407,6 @@ Asynchronous JavaScript is amazing.
 I Promise you, await and see.
 
 ---
-
 
 **Q:** What did the Class say in court when put on trial?
 
@@ -572,6 +577,7 @@ There are 10 types of people in this world, those who understand binary and thos
 **A:** psycoPG13
 
 ---
+
 The next time you're using Safari or Firefox and it's running slowly, you can say to yourself, "[I could've had a V8](https://www.youtube.com/watch?v=ld8eAH0MW00)".
 
 ---
@@ -672,7 +678,7 @@ The next time you're using Safari or Firefox and it's running slowly, you can sa
 
 ---
 
-A new database query walks into a bar. 
+A new database query walks into a bar.
 
 The server says "Sorry, cache only."
 
@@ -698,13 +704,79 @@ What's the best tool for automatically ignoring long email threads about tech bu
 
 **Q**: Why did the developer cancel their dinner plans?
 
-**A**: They were unable to fulfil peer dependencies 
+**A**: They were unable to fulfil peer dependencies
 
 ---
 
 **Q**: Why did the functional programmer finally move out of their house?
 
 **A**: For(e) closure
+
+---
+
+**Q:** How do JavaScript developers break up?
+
+**A:** They always promise to callback
+
+---
+
+**Q:** Why do developers mixup Terminals and Polygraphs?
+
+**A:** Because they both can see a lie (CLI)
+
+---
+
+**Q:** Did you hear about the programmer that was scared of IDEs?
+
+**A:** They retreated back into their shell
+
+---
+
+**Q:** What do you call optimistic front-end developers?
+
+**A:** Stack half-full developers.
+
+---
+
+**Q:** Have you heard the one about the Corduroy pillow?
+
+**A:** It's making HEADLINES!
+
+---
+
+**Q:** Hey officer! How did the hackers escape?
+
+**A:** No idea. They just ransomware.
+
+---
+
+**Q:** Why can’t data engineers become hat makers?
+
+**A:** They can only guarantee two thirds of a CAP!
+
+---
+
+**Q:** How did the hippie learn about database transactions?
+
+**A:** By taking ACID
+
+---
+
+**Q:** Why is it called the Dark Ages?
+
+**A:** There were a lot of KNIGHTS!
+
+---
+
+**Q:** What did the Network Administrator say when they caught a nasty virus?
+
+**A:** It hurts when IP
+
+---
+
+**Q:** Which programming language is the shortest?
+
+**A:** HTML. Because it doesn't have a neck between its `<head>` and `<body>`.
 
 ---
 
