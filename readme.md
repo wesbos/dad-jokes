@@ -780,8 +780,8 @@ What's the best tool for automatically ignoring long email threads about tech bu
 
 ---
 
-**Q**: Why should you avoid the number 57005 around witches?
+**Q**: What good can come of 2989 witches casting a hex?
 
-**A**: In case one casts a hex on you.
+**A**: None, it is always 0xBAD
 
 ---
