@@ -791,3 +791,9 @@ What's the best tool for automatically ignoring long email threads about tech bu
 **A**: They failed to make the target DEAD and made them DEAF instead!
 
 ---
+
+**Q**: Try closing the console window!
+
+**A**: Woah! the error is gone.
+
+---
