@@ -791,3 +791,9 @@ What's the best tool for automatically ignoring long email threads about tech bu
 **A**: They failed to make the target DEAD and made them DEAF instead!
 
 ---
+
+**Q**: Why did the programmer quit his job?
+
+**A**: Because he didnt get arrays.
+
+---s
