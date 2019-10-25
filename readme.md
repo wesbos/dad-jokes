@@ -791,3 +791,9 @@ What's the best tool for automatically ignoring long email threads about tech bu
 **A**: They failed to make the target DEAD and made them DEAF instead!
 
 ---
+
+**Q**: What did the pond frog say to his drumming buddy?
+
+**A**: Hey, you have a great algae rhythm.
+
+---
