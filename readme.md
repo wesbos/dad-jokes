@@ -797,3 +797,7 @@ I went to a street where the houses were numbered 8k, 16k, 32k, 64k, 128k, 256k 
 It was a trip down Memory Lane.
 
 ---
+
+I don't see women as objects. I consider each to be in a class of her own. 
+
+---
