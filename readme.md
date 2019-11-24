@@ -415,6 +415,12 @@ I Promise you, await and see.
 
 ---
 
+**Q:** How does a sysadmin keep a fire going?
+
+**A:** They rotate the logs.
+
+---
+
 I've got a great UDP joke but I'm afraid you wouldn't get it...
 
 ---
