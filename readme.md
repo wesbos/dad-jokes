@@ -258,9 +258,9 @@ As in: OOPs I used Java!
 
 ---
 
-**Q:** Where do slow queries go to retire?
+**Q:** Where is a slow query's favorite fishing spot?
 
-**A:** A little cabin by the latency.
+**A:** The latency.
 
 ---
 
