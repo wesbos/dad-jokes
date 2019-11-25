@@ -312,6 +312,12 @@ As in: OOPs I used Java!
 
 ---
 
+**Q:** Why do UPS drivers get nervous when their internet is unstable?
+
+**A:** Because they might loose packets.
+
+---
+
 **Q:** Why couldn’t the user update a file on a shared server?
 
 **A:** They didn’t have the write permissions
