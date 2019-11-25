@@ -372,6 +372,12 @@ As in: OOPs I used Java!
 
 ---
 
+**Q:** Why aren't crypto engineers allowed inside bars?
+
+**A:** They're miners!
+
+---
+
 **Q:** Why did the constant break up with the variable?
 
 **A:** Because they changed.
