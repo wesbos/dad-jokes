@@ -372,9 +372,9 @@ As in: OOPs I used Java!
 
 ---
 
-**Q:** Why aren't crypto engineers allowed inside bars?
+**Q:** Why aren't cryptocurrency engineers allowed to vote?
 
-**A:** They're miners!
+**A:** Because they're miners!
 
 ---
 
