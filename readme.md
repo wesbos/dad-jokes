@@ -258,6 +258,12 @@ As in: OOPs I used Java!
 
 ---
 
+**Q:** Where do slow queries go to retire?
+
+**A:** A little cabin by the latency.
+
+---
+
 **Q:** How does a developer make a cheer?
 
 **A:** ["hip","hip"] // (hip hip array!)
