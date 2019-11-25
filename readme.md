@@ -366,6 +366,12 @@ As in: OOPs I used Java!
 
 ---
 
+**Q:** When do front end developers go out to eat?
+
+**A:** On their lunch `<br>`.
+
+---
+
 **Q:** A SQL developer walked into a NoSQL bar.
 
 **A:** They left because they couldn't find a table.
