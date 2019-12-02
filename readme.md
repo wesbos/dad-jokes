@@ -815,3 +815,7 @@ I went to a street where the houses were numbered 8k, 16k, 32k, 64k, 128k, 256k 
 It was a trip down Memory Lane.
 
 ---
+
+Lisp programmers don't make prank calls. They make `FUNCALL`s
+
+---
