@@ -819,3 +819,10 @@ It was a trip down Memory Lane.
 Lisp programmers don't make prank calls. They make `FUNCALL`s
 
 ---
+
+**Q:** How do ask a developer to go on a date with you?
+
+**A:** You open a pull request.
+
+---
+
