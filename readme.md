@@ -180,6 +180,12 @@ The programmer comes home with 12 loaves of bread.
 
 ---
 
+I never tell the same joke twice
+
+I have a DRY sense of humor.
+
+---
+
 **Q:** Why was the computer freezing?
 
 **A:** It left its Windows open!
