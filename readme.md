@@ -330,6 +330,12 @@ As in: OOPs I used Java!
 
 ---
 
+**Q:** What do you call a doctor who fixes websites?
+
+**A:** A URLogist
+
+---
+
 **Q:** How many developers does it take to change a light bulb?
 
 **A:** None. It's a hardware issue
