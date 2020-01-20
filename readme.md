@@ -836,4 +836,8 @@ Lisp programmers don't make prank calls. They make `FUNCALL`s
 
 ---
 
+**Q:** What's the best thing thing about UDP jokes?
 
+**A:** I don't care if you get them
+
+---
