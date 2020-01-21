@@ -8,6 +8,12 @@ Unfortunately these jokes only work if you git them.
 
 ---
 
+**Q:** Who's your girlfriend?
+
+**A:** I'll leave the relations to the database.
+
+---
+
 **Q:** How do you get the code for the bank vault?
 
 **A:** You checkout their branch.
