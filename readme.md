@@ -8,6 +8,12 @@ Unfortunately these jokes only work if you git them.
 
 ---
 
+**Q:** Relationship status?
+
+**A:** I'll leave the relations to the database.
+
+---
+
 **Q:** How do you get the code for the bank vault?
 
 **A:** You checkout their branch.
