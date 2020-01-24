@@ -8,7 +8,7 @@ Unfortunately these jokes only work if you git them.
 
 ---
 
-**Q:** Who's your girlfriend?
+**Q:** Relationship status?
 
 **A:** I'll leave the relations to the database.
 
