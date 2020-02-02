@@ -837,3 +837,7 @@ It was a trip down Memory Lane.
 Lisp programmers don't make prank calls. They make `FUNCALL`s
 
 ---
+
+**Q**: The playwright spilled coffee all over his work. What did he then call it?
+
+**A**: JavaScript.
