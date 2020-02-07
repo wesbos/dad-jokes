@@ -837,3 +837,6 @@ It was a trip down Memory Lane.
 Lisp programmers don't make prank calls. They make `FUNCALL`s
 
 ---
+
+**Q**: What does PHP stand for?
+**A**: **P**eople **H**ate **P**HP
