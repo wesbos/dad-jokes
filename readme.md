@@ -8,6 +8,12 @@ Unfortunately these jokes only work if you git them.
 
 ---
 
+**Q**: Why do Front-End Developers eat lunch alone?
+
+**A**: Because, they don't know how to join tables. 
+
+---
+
 **Q:** Relationship status?
 
 **A:** I'll leave the relations to the database.
