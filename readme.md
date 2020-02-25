@@ -837,3 +837,7 @@ It was a trip down Memory Lane.
 Lisp programmers don't make prank calls. They make `FUNCALL`s
 
 ---
+
+**Q**: Why do Front-End Developers eat lunch alone?
+
+**A**: Because, they don't know how to join tables. 
