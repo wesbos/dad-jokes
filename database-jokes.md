@@ -17,6 +17,7 @@
 **Q:** Why doesn't Hollywood make more Big Data movies?
 
 **A:** NoSQL.
+
 ---
 
 **Q:** A SQL query goes into a bar, walks up to two tables and asks:
