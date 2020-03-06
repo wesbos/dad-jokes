@@ -15,3 +15,9 @@ Unfortunately these jokes only work if you git them.
 **Q:** What airline do developers prefer when they're in a rush?
 
 **A:** Delta.
+
+---
+
+**Q:** Why don't bachelors like Git?
+
+**A:** Because they are afraid to commit.
