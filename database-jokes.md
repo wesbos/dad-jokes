@@ -70,3 +70,9 @@ The server says "Sorry, cache only."
 **Q**: Why do Front-End Developers eat lunch alone?
 
 **A**: Because, they don't know how to join tables. 
+
+---
+
+`SELECT * FROM government WHERE IQ > 80;`
+
+`> 0 ROWS RETURN`
