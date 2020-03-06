@@ -290,3 +290,12 @@ There are 10 types of people in this world, those who understand binary and thos
 **Q:** How do JavaScript developers break up?
 
 **A:** They always promise to callback
+
+---
+
+Lisp programmers don't make prank calls. They make `FUNCALL`s
+
+---
+
+A programmer's walking down the beach at dusk when they spot something shiny in the sand. He reaches down and finds a lamp, so they decide to rub it and, lo and behold, a genie pops out! "I am the most powerful genie in the world. I will grant you one and only one wish." The rogrammer thinks, pulls out a map, and says, "I'd like there to be a just and last peace among the people in the Middle East."
+The genie responded, "Wow, that's a tall order. I don't know if I can do that. I mean, I'm powerful and all, but I'm not that powerful. So, the programmer says, "Well, I'm a developer, and my programs have a lot of users. Make my users satisfied with my programs and make them ask for sensible changes." The genie nods, "Let me see that map again."
