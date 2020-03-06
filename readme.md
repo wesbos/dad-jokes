@@ -18,4 +18,5 @@ Try to put your jokes into whichever file you think is the best categorization.
 
 ## Help Wanted
 
-- Machine Learning and AI Jokes (`ML-AI-jokes.md`)
+- Machine Learning and AI Jokes (`ml-ai-jokes.md`)
+- Networking Jokes (`server-networking-jokes.md`)
