@@ -21,3 +21,9 @@ Unfortunately these jokes only work if you git them.
 **Q:** Why don't bachelors like Git?
 
 **A:** Because they are afraid to commit.
+
+---
+
+**Q**: How does Mr. Potato Head (dev edition 0.0.1) remove his mustache?
+
+**A**: git stache pop
