@@ -774,6 +774,10 @@ What's the best tool for automatically ignoring long email threads about tech bu
 
 ---
 
+Chuck Norris can take a screenshot of his blue screen.
+
+---
+
 **Q:** Have you heard the one about the Corduroy pillow?
 
 **A:** It's making HEADLINES!
