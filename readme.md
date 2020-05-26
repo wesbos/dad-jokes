@@ -826,7 +826,7 @@ Chuck Norris can take a screenshot of his blue screen.
 
 ---
 
-**Q**: Did you here about the witch who was off by two when casting a hex?
+**Q**: Did you hear about the witch who was off by two when casting a hex?
 
 **A**: They failed to make the target DEAD and made them DEAF instead!
 
