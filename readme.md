@@ -832,7 +832,7 @@ Chuck Norris can take a screenshot of his blue screen.
 
 ---
 
-I went to a street where the houses were numbered 8k, 16k, 32k, 64k, 128k, 256k and 512k. 
+I went to a street where the houses were numbered 8k, 16k, 32k, 64k, 128k, 256k and 512k.
 
 It was a trip down Memory Lane.
 
@@ -844,4 +844,10 @@ Lisp programmers don't make prank calls. They make `FUNCALL`s
 
 **Q**: Why do Front-End Developers eat lunch alone?
 
-**A**: Because, they don't know how to join tables. 
+**A**: Because, they don't know how to join tables.
+
+---
+
+**Q**: What advice do you give to a JS developer who has never played baseball?
+
+**A**: Try catch.
