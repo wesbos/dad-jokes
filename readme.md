@@ -851,3 +851,9 @@ Lisp programmers don't make prank calls. They make `FUNCALL`s
 **Q**: What advice do you give to a JS developer who has never played baseball?
 
 **A**: Try catch.
+
+---
+
+**Q**: Got any funny DNS jokes?
+
+**A**: Yeah, but it may take 24 hours to get it.
