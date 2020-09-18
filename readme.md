@@ -851,3 +851,21 @@ Lisp programmers don't make prank calls. They make `FUNCALL`s
 **Q**: What advice do you give to a JS developer who has never played baseball?
 
 **A**: Try catch.
+
+---
+
+**Q**: How Javascript enters in Australia
+
+**A**: Through an Express.js entry
+
+---
+
+**Q**: What did others say when API died
+
+**A**: REST in peace
+
+---
+
+**Q**: What do you order from a Indian restaurant that orders for function
+
+**A**: A Lambda Curry
