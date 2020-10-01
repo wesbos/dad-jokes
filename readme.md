@@ -8,7 +8,9 @@ Unfortunately these jokes only work if you git them.
 
 ---
 **Q:** how do you Venting  your anger?
+
 **A:** just solving errors.
+
 ---
 **Q:** Relationship status?
 
