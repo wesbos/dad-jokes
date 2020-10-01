@@ -851,3 +851,14 @@ Lisp programmers don't make prank calls. They make `FUNCALL`s
 **Q**: What advice do you give to a JS developer who has never played baseball?
 
 **A**: Try catch.
+
+*************************************************
+
+A man walks into a bar
+National stereotypes aside, many top English jokes start with this sentence. Here are a few:
+
+“A dyslexic man walks into a bra.”
+
+“A man walks into a bar with a roll of tarmac under his arm and says: “Pint please… and one for the road.”
+
+***********************************************8
