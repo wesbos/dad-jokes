@@ -9,7 +9,7 @@ Unfortunately these jokes only work if you git them.
 ---
 **Q:** how do you Venting  your anger?
 
-**A:** just solving errors.
+**A:** just solving errors in my project.
 
 ---
 **Q:** Relationship status?
