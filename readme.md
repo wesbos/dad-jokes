@@ -857,3 +857,9 @@ Lisp programmers don't make prank calls. They make `FUNCALL`s
 **Q**: Got any funny DNS jokes?
 
 **A**: Yeah, but it may take 24 hours to get it.
+
+----
+The doctor to the patient: 'You are very sick'
+The patient to the doctor: 'Can I get a second opinion?'
+The doctor again: 'Yes, you are very ugly too...'
+I use this joke for retelling in reported speech.
