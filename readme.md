@@ -14,6 +14,13 @@ Unfortunately these jokes only work if you git them.
 
 ---
 
+**Q:** Whats the object-oriented way to become wealthy?
+
+**A:** Inheritance
+
+
+---
+
 **Q:** How do you get the code for the bank vault?
 
 **A:** You checkout their branch.
