@@ -4,7 +4,7 @@
 
 ---
 
-Unfortunately these jokes only work if you git them.
+Unfortunately these jokes only work if you git them.Always be Happy and Always Positive. 
 
 ---
 
