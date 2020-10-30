@@ -857,3 +857,12 @@ Lisp programmers don't make prank calls. They make `FUNCALL`s
 **Q**: Got any funny DNS jokes?
 
 **A**: Yeah, but it may take 24 hours to get it.
+
+---
+
+**Q**: Whats the object-oriented way to become wealthy?”
+
+**A**:  Inheritance
+
+---
+
