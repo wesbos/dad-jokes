@@ -863,3 +863,10 @@ Lisp programmers don't make prank calls. They make `FUNCALL`s
 **Q**: Where do programmer dad's store their jokes?
 
 **A**: In a dad-a-base.
+
+---
+
+**Q**: Did you hear about the restaurant on the moon? (CHI ZIHAO)
+**A**: Great food, no atmosphere.
+
+
