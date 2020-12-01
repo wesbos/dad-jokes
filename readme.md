@@ -72,7 +72,7 @@ Huge if true.
 
 ---
 
-**Q** What do you call a `0` in a bikini?
+**Q:** What do you call a `0` in a bikini?
 
 **A:** A Swimming Bool
 
