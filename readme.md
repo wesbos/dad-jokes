@@ -702,6 +702,12 @@ The next time you're using Safari or Firefox and it's running slowly, you can sa
 
 ---
 
+**Q**: Why did Tom Selleck never git commit anything?
+
+**A**: Because he thought he mustache his work.
+
+---
+
 **Q**: How does Mr. Potato Head (dev edition 0.0.1) remove his mustache?
 
 **A**: git stache pop
