@@ -1,10 +1,16 @@
 # Dad style programming jokes
 
-submit your own, if they make me laugh I'll merge them.
+> submit your own, if they make me laugh I'll merge them.
 
 ---
 
 Unfortunately these jokes only work if you git them.
+
+---
+
+**Q:** Relationship status?
+
+**A:** I'll leave the relations to the database.
 
 ---
 
@@ -17,6 +23,12 @@ Unfortunately these jokes only work if you git them.
 **Q:** How did the developer announce their engagement?
 
 **A:** They `return`ed `true`!
+
+---
+
+**Q:** Why did the security conscious engineer refuse to pay their dinner bill?
+
+**A:** Because they could not verify the checksum.
 
 ---
 
@@ -132,6 +144,12 @@ It's funny 'cause it's true.
 
 ---
 
+**Q:** Why doesn't Hollywood make more Big Data movies?
+
+**A:** NoSQL.
+
+---
+
 A programmer's significant other tells them, "Run to the store and pick up a loaf of bread. If they have eggs, get a dozen."
 
 The programmer comes home with 12 loaves of bread.
@@ -168,7 +186,13 @@ The programmer comes home with 12 loaves of bread.
 
 ---
 
-**Q:** Why was the computer cold?
+I never tell the same joke twice
+
+I have a DRY sense of humor.
+
+---
+
+**Q:** Why was the computer freezing?
 
 **A:** It left its Windows open!
 
@@ -219,6 +243,12 @@ As in: OOPs I used Java!
 **Q:** How do programming shepherds count their flock?
 
 **A:** With lambda functions
+
+---
+
+**Q:** What airline do developers prefer when they're in a rush?
+
+**A:** Delta.
 
 ---
 
@@ -294,6 +324,12 @@ As in: OOPs I used Java!
 
 ---
 
+**Q:** Why do UPS drivers get nervous when their internet is unstable?
+
+**A:** Because they might lose packets.
+
+---
+
 **Q:** Why couldn’t the user update a file on a shared server?
 
 **A:** They didn’t have the write permissions
@@ -303,6 +339,12 @@ As in: OOPs I used Java!
 **Q:** What do you do when you can't understand your husband's behavior?
 
 **A:** man man
+
+---
+
+**Q:** What do you call a doctor who fixes websites?
+
+**A:** A URLogist
 
 ---
 
@@ -318,6 +360,12 @@ As in: OOPs I used Java!
 
 ---
 
+**Q:** Why do kayakers make bad programmers?
+
+**A:** Because they're afraid of waterfall.
+
+---
+
 **Q:** What are computers' favorite snacks?
 
 **A:** Microchips, phish sticks, and cookies. But just a few bytes of each.
@@ -330,9 +378,21 @@ As in: OOPs I used Java!
 
 ---
 
+**Q:** What do you call a computer that sings?
+
+**A:** A-dell.
+
+---
+
 **Q:** What's a compiler developer's favorite spice?
 
 **A:** Parsley.
+
+---
+
+**Q:** When do front end developers go out to eat?
+
+**A:** On their lunch `<br>`.
 
 ---
 
@@ -360,6 +420,12 @@ As in: OOPs I used Java!
 
 ---
 
+**Q:** Why aren't cryptocurrency engineers allowed to vote?
+
+**A:** Because they're miners!
+
+---
+
 **Q:** Why did the constant break up with the variable?
 
 **A:** Because they changed.
@@ -377,7 +443,6 @@ Asynchronous JavaScript is amazing.
 I Promise you, await and see.
 
 ---
-
 
 **Q:** What did the Class say in court when put on trial?
 
@@ -400,6 +465,12 @@ I Promise you, await and see.
 **Q:** What did the fruit basket say to the developer?
 
 **A:** I hope you're ready for some pear programming!
+
+---
+
+**Q:** How does a sysadmin keep a fire going?
+
+**A:** They rotate the logs.
 
 ---
 
@@ -548,6 +619,7 @@ There are 10 types of people in this world, those who understand binary and thos
 **A:** psycoPG13
 
 ---
+
 The next time you're using Safari or Firefox and it's running slowly, you can say to yourself, "[I could've had a V8](https://www.youtube.com/watch?v=ld8eAH0MW00)".
 
 ---
@@ -633,5 +705,181 @@ The next time you're using Safari or Firefox and it's running slowly, you can sa
 **Q**: Why did Tom Selleck never git commit anything?
 
 **A**: Because he thought he mustache his work.
+
+---
+
+**Q**: How does Mr. Potato Head (dev edition 0.0.1) remove his mustache?
+
+**A**: git stache pop
+
+---
+
+**Q**: Why can't you use 'Soup' as your password?
+
+**A**: Because it isn't `stroganoff`
+
+---
+
+**Q**: Why do developers use mechanical keyboards?
+
+**A**: To strongly type their code.
+
+---
+
+A new database query walks into a bar.
+
+The server says "Sorry, cache only."
+
+---
+
+What's the best tool for automatically ignoring long email threads about tech buzzwords?
+
+"Block-chain"
+
+---
+
+**Q**: What is a developer's favorite country song?
+
+**A**: Hello World - by Lady Antebellum
+
+---
+
+**Q**: Why was nobody given food at the developer conference?
+
+**A**: It was a serverless function!
+
+---
+
+**Q**: Why did the developer cancel their dinner plans?
+
+**A**: They were unable to fulfil peer dependencies
+
+---
+
+**Q**: Why did the functional programmer finally move out of their house?
+
+**A**: For(e) closure
+
+---
+
+**Q:** How do JavaScript developers break up?
+
+**A:** They always promise to callback
+
+---
+
+**Q:** Why do developers mixup Terminals and Polygraphs?
+
+**A:** Because they both can see a lie (CLI)
+
+---
+
+**Q:** Did you hear about the programmer that was scared of IDEs?
+
+**A:** They retreated back into their shell
+
+---
+
+**Q:** What do you call optimistic front-end developers?
+
+**A:** Stack half-full developers.
+
+---
+
+Chuck Norris can take a screenshot of his blue screen.
+
+---
+
+**Q:** Have you heard the one about the Corduroy pillow?
+
+**A:** It's making HEADLINES!
+
+---
+
+**Q:** Hey officer! How did the hackers escape?
+
+**A:** No idea. They just ransomware.
+
+---
+
+**Q:** Why can’t data engineers become hat makers?
+
+**A:** They can only guarantee two thirds of a CAP!
+
+---
+
+**Q:** How did the hippie learn about database transactions?
+
+**A:** By taking ACID
+
+---
+
+**Q:** Why is it called the Dark Ages?
+
+**A:** There were a lot of KNIGHTS!
+
+---
+
+**Q:** What did the Network Administrator say when they caught a nasty virus?
+
+**A:** It hurts when IP
+
+---
+
+**Q:** Which programming language is the shortest?
+
+**A:** HTML. Because it doesn't have a neck between its `<head>` and `<body>`.
+
+---
+
+**Q**: What good can come of 2989 witches casting a hex?
+
+**A**: None, it is always 0xBAD
+
+---
+
+**Q**: Did you hear about the witch who was off by two when casting a hex?
+
+**A**: They failed to make the target DEAD and made them DEAF instead!
+
+---
+
+I went to a street where the houses were numbered 8k, 16k, 32k, 64k, 128k, 256k and 512k.
+
+It was a trip down Memory Lane.
+
+---
+
+Lisp programmers don't make prank calls. They make `FUNCALL`s
+
+---
+
+**Q**: Why do Front-End Developers eat lunch alone?
+
+**A**: Because, they don't know how to join tables.
+
+---
+
+**Q**: What advice do you give to a JS developer who has never played baseball?
+
+**A**: Try catch.
+
+---
+
+**Q**: Got any funny DNS jokes?
+
+**A**: Yeah, but it may take 24 hours to get it.
+
+---
+
+**Q**: Why were A & B so frustrated?
+
+**A**: Because they couldn’t cd…
+
+---
+
+**Q**: Where do programmer dad's store their jokes?
+
+**A**: In a dad-a-base.
 
 ---
