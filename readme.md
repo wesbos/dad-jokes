@@ -8,7 +8,7 @@ Unfortunately these jokes only work if you git them.
 
 ---
 
-**Q:** Which body part should a programmer know the most about?
+**Q:** Which body part does a programmer know best?
 
 **A:** ARM
 
