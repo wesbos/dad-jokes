@@ -8,6 +8,12 @@ Unfortunately these jokes only work if you git them.
 
 ---
 
+**Q:** Which body part does a programmer know best?
+
+**A:** ARM
+
+---
+
 **Q:** Relationship status?
 
 **A:** I'll leave the relations to the database.
