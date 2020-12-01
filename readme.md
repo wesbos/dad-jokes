@@ -72,6 +72,12 @@ Huge if true.
 
 ---
 
+**Q** What do you call a `0` in a bikini?
+
+**A:** A Swimming Bool
+
+---
+
 **Q:** Why was the developer unhappy at their job?
 
 **A:** They wanted arrays.
