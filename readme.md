@@ -863,3 +863,9 @@ Lisp programmers don't make prank calls. They make `FUNCALL`s
 **Q**: Where do programmer dad's store their jokes?
 
 **A**: In a dad-a-base.
+
+---
+
+**Q**: Why that programmer song so loud voice?
+
+**A**: There are many listeners for him.
