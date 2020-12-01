@@ -8,6 +8,12 @@ Unfortunately these jokes only work if you git them.
 
 ---
 
+**Q:** What do you call an elephant that doesn't matter??
+
+**A:** An irrelephant
+
+---
+
 **Q:** Relationship status?
 
 **A:** I'll leave the relations to the database.
