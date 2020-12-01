@@ -8,6 +8,12 @@ Unfortunately these jokes only work if you git them.
 
 ---
 
+**Q:** What is the scariest?
+
+**A:** Reading a paper.
+
+---
+
 **Q:** Relationship status?
 
 **A:** I'll leave the relations to the database.
