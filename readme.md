@@ -889,3 +889,9 @@ Lisp programmers don't make prank calls. They make `FUNCALL`s
 **A**: In a dad-a-base.
 
 ---
+
+**Q**: Why was a developer being Mean?
+
+**A**: Because he worked Angular.
+
+---
