@@ -889,3 +889,11 @@ Lisp programmers don't make prank calls. They make `FUNCALL`s
 **A**: In a dad-a-base.
 
 ---
+
+**Q**: Why did the ALU refuse to add two subnibbles.
+
+**A**: Because it refuses to be seen doing a two bit operation.
+
+---
+
+I have proof I should not be treated object. Obviously, I have no class.
