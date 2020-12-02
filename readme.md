@@ -889,3 +889,10 @@ Lisp programmers don't make prank calls. They make `FUNCALL`s
 **A**: In a dad-a-base.
 
 ---
+
+**Q**: Why do Websockets make the best therapists?
+
+**A**: They are always listening.
+
+---
+
