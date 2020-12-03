@@ -890,6 +890,12 @@ Lisp programmers don't make prank calls. They make `FUNCALL`s
 
 ---
 
+**Q**: Why do Websockets make the best therapists?
+
+**A**: They are always listening.
+
+---
+
 **Q**: Why did the ALU refuse to add two subnibbles.
 
 **A**: Because it refuses to be seen doing a two-bit operation.
