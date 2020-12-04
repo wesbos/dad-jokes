@@ -11,6 +11,10 @@ Unfortunately these jokes only work if you git them.
 **Q:** What do you call an elephant that doesn't matter??
 
 **A:** An irrelephant
+=======
+**Q:** Which body part does a programmer know best?
+
+**A:** ARM
 
 ---
 
@@ -327,6 +331,12 @@ As in: OOPs I used Java!
 **Q:** You know what the best thing about booleans is?
 
 **A:** Even if you are wrong, you are only off by a bit.
+
+---
+
+**Q:** Why do UPS drivers get nervous when their internet is unstable?
+
+**A:** Because they might lose packets.
 
 ---
 
@@ -702,6 +712,12 @@ The next time you're using Safari or Firefox and it's running slowly, you can sa
 
 ---
 
+**Q**: Why did Tom Selleck never git commit anything?
+
+**A**: Because he thought he mustache his work.
+
+---
+
 **Q**: How does Mr. Potato Head (dev edition 0.0.1) remove his mustache?
 
 **A**: git stache pop
@@ -866,6 +882,26 @@ Lisp programmers don't make prank calls. They make `FUNCALL`s
 
 ---
 
+**Q**: Why were A & B so frustrated?
+
+**A**: Because they couldn’t cd…
+
+---
+
 **Q**: Where do programmer dad's store their jokes?
 
 **A**: In a dad-a-base.
+
+---
+
+**Q**: Why do Websockets make the best therapists?
+
+**A**: They are always listening.
+
+---
+
+**Q**: Why did the ALU refuse to add two subnibbles.
+
+**A**: Because it refuses to be seen doing a two-bit operation.
+
+---
