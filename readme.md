@@ -896,3 +896,8 @@ Lisp programmers don't make prank calls. They make `FUNCALL`s
 
 ---
 
+**Q**: Why did the ALU refuse to add two subnibbles.
+
+**A**: Because it refuses to be seen doing a two-bit operation.
+
+---
