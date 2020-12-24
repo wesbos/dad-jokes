@@ -642,6 +642,12 @@ The next time you're using Safari or Firefox and it's running slowly, you can sa
 
 ---
 
+**Q:** Why was the engineer upset when the bartender served them `1` shot of whiskey?
+
+**A:** Because they thought they ordered a double.
+
+---
+
 **Q:** Why do assembly programmers need to know how to swim?
 
 **A:** Because they work below C level.
