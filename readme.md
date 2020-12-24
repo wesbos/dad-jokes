@@ -630,6 +630,12 @@ The next time you're using Safari or Firefox and it's running slowly, you can sa
 
 ---
 
+**Q:** What do you call a beverage that is 75% Root Beer, and 75% Ice Cream?
+
+**A:** A Float
+
+---
+
 **Q:** What accommodations did the JavaScript developer request at the hotel?
 
 **A:** A room with a Vue.
