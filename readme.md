@@ -913,3 +913,11 @@ Lisp programmers don't make prank calls. They make `FUNCALL`s
 **A**: Because it refuses to be seen doing a two-bit operation.
 
 ---
+
+---
+
+**Q**: How do you konw if software engineer is an extrovert?
+
+**A**: They look at your shoe insteed of their own.
+
+---
