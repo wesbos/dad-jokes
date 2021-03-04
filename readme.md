@@ -914,5 +914,5 @@ Lisp programmers don't make prank calls. They make `FUNCALL`s
 
 ---
 
-**Q**: What's the developer's first word?
-**A**: Hello world!
+**Q**: How do you know your baby is going to be a developer when they grow up?
+**A**: Their first word is "Hello world!"
