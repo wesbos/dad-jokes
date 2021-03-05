@@ -913,3 +913,6 @@ Lisp programmers don't make prank calls. They make `FUNCALL`s
 **A**: Because it refuses to be seen doing a two-bit operation.
 
 ---
+
+**Q**: How do you know your baby is going to be a developer when they grow up?
+**A**: Their first word is "Hello world!"
