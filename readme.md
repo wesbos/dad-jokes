@@ -276,6 +276,12 @@ As in: OOPs I used Java!
 
 ---
 
+**Q:** Where is a slow query's favorite fishing spot?
+
+**A:** The latency.
+
+---
+
 **Q:** How does a developer make a cheer?
 
 **A:** ["hip","hip"] // (hip hip array!)
