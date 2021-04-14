@@ -919,3 +919,9 @@ Lisp programmers don't make prank calls. They make `FUNCALL`s
 **A**: Their first word is "Hello world!"
 
 ---
+
+**Q**: What kind of image saved the day?
+
+**A**: The HERO image!
+
+---
