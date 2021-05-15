@@ -931,3 +931,9 @@ Lisp programmers don't make prank calls. They make `FUNCALL`s
 **A**: Because light attracts bugs!
 
 ---
+
+**Q**: What kind of microchip does this new vaccine contain, can I install a Linux based OS on it?
+
+**A**: I don't know for sure, but it must be ARM based.
+
+---
