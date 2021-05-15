@@ -931,3 +931,9 @@ Lisp programmers don't make prank calls. They make `FUNCALL`s
 **A**: Because light attracts bugs!
 
 ---
+
+**Q**: What goes from 0 to 100 extremely fast?
+
+**A**: Binary numbers
+
+---
