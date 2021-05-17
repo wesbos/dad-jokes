@@ -931,3 +931,7 @@ Lisp programmers don't make prank calls. They make `FUNCALL`s
 **A**: Because light attracts bugs!
 
 ---
+
+**Q**: Why do Java programmers have to wear glasses
+**A**: Because they don’t C#.
+
