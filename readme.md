@@ -937,3 +937,9 @@ Lisp programmers don't make prank calls. They make `FUNCALL`s
 **A**: I don't know for sure, but it must be ARM based.
 
 ---
+
+**Q:** I'm selling my 8 bit computer. Do you want to buy it? The price is $256.
+
+**A:** Sure! Give me $1 and it's all mine.
+
+**Q:** Deal. You'll have to come and get it, I can't carry it.
