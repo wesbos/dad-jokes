@@ -937,3 +937,9 @@ Lisp programmers don't make prank calls. They make `FUNCALL`s
 **A**: I don't know for sure, but it must be ARM based.
 
 ---
+
+**Q:** Why was the developer complaining at the hotel reception?
+
+**A:** Because he couldn't find the room 404
+
+---
