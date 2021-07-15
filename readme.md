@@ -4,6 +4,12 @@
 
 ---
 
+**Q:** Why did the software engineer run around her computer?
+
+**A:** Because she wanted to catch up on her coding.
+
+---
+
 Unfortunately these jokes only work if you git them.
 
 ---
