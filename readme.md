@@ -937,3 +937,15 @@ Lisp programmers don't make prank calls. They make `FUNCALL`s
 **A**: I don't know for sure, but it must be ARM based.
 
 ---
+
+**Q**: How do you make a 4D Printer?
+
+**A**: Take a 3D printer and give it some time
+
+---
+
+**Q**: How do front end devs like their brownies?
+
+**A**: GUI
+
+---
