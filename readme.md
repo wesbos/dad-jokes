@@ -958,4 +958,8 @@ XML solves this problem by being readable to neither.
 
 ---
 
+Making jokes about Git is not easy
 
+You have to really commit and push.
+
+---
