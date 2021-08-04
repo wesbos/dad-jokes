@@ -958,4 +958,9 @@ XML solves this problem by being readable to neither.
 
 ---
 
+**Q**: What do hackers do on a boat?
+
+**A**: Phishing.
+
+---
 
