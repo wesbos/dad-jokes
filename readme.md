@@ -950,7 +950,7 @@ Lisp programmers don't make prank calls. They make `FUNCALL`s
 
 ---
 
-Some languages can be read by humans, not by machines. 
+Some languages can be read by humans, not by machines.
 
 Others can be read by machines but not by humans.
 
@@ -964,3 +964,8 @@ XML solves this problem by being readable to neither.
 
 ---
 
+**Q:** What is the most used language in programming?
+
+**A:** Profanity
+
+---
