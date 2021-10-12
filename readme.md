@@ -969,3 +969,9 @@ XML solves this problem by being readable to neither.
 **A:** Profanity
 
 ---
+
+**Q:** Why couldn't the HTML list be trusted?
+
+**A:** There were LI's everywhere
+
+---
