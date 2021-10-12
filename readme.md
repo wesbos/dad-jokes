@@ -970,7 +970,7 @@ XML solves this problem by being readable to neither.
 
 ---
 
-**Q:** Why couldnt the html list be trusted?
+**Q:** Why couldn't the HTML list be trusted?
 
 **A:** There were LI's everywhere
 
