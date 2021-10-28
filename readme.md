@@ -980,6 +980,11 @@ XML solves this problem by being readable to neither.
 **A:** Thank's for nothing
 
 ---
+**Q:** When does a joke become a dad joke?
+
+**A:** When it becomes a parent. 
+
+---
 
 
 
