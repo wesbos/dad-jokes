@@ -354,6 +354,12 @@ As in: OOPs I used Java!
 
 ---
 
+**Q:** What is the best time to go to the dentist?
+
+**A:** 2:30 (Tooth hurty!)
+
+---
+
 **Q:** How many developers does it take to change a light bulb?
 
 **A:** None. It's a hardware issue
