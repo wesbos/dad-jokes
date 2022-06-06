@@ -354,12 +354,6 @@ As in: OOPs I used Java!
 
 ---
 
-My girlfriend told me to take the spider out instead of killing it.
-
-We went and had some drinks. Cool guy. Wants to be a web developer.
-
----
-
 **Q:** How many developers does it take to change a light bulb?
 
 **A:** None. It's a hardware issue
@@ -981,6 +975,7 @@ XML solves this problem by being readable to neither.
 **A:** There were LI's everywhere
 
 ---
+
 **Q:** To the person who invented zero
 
 **A:** Thank's for nothing
@@ -992,5 +987,3 @@ XML solves this problem by being readable to neither.
 **A:** A USB
 
 ---
-
-
