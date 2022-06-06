@@ -354,9 +354,9 @@ As in: OOPs I used Java!
 
 ---
 
-**Q:** What is the best time to go to the dentist?
+My girlfriend told me to take the spider out instead of killing it.
 
-**A:** 2:30 (Tooth hurty!)
+We went and had some drinks. Cool guy. Wants to be a web developer.
 
 ---
 
