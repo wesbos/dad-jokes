@@ -420,6 +420,12 @@ As in: OOPs I used Java!
 
 ---
 
+**Q:** Why was the developer complaining at the hotel reception?
+
+**A:** Because they couldn't find room 404
+
+---
+
 **Q:** Why didn't the `<div />` get invited to the dinner party?
 
 **A:** Because it had no class!
@@ -993,4 +999,3 @@ XML solves this problem by being readable to neither.
 **A:** Amazon Web Services
 
 ---
-
