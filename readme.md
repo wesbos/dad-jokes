@@ -1,10 +1,22 @@
 # Dad style programming jokes
 
-submit your own, if they make me laugh I'll merge them.
+> submit your own, if they make me laugh I'll merge them.
 
 ---
 
 Unfortunately these jokes only work if you git them.
+
+---
+
+**Q:** Which body part does a programmer know best?
+
+**A:** ARM
+
+---
+
+**Q:** Relationship status?
+
+**A:** I'll leave the relations to the database.
 
 ---
 
@@ -180,6 +192,12 @@ The programmer comes home with 12 loaves of bread.
 
 ---
 
+I never tell the same joke twice
+
+I have a DRY sense of humor.
+
+---
+
 **Q:** Why was the computer freezing?
 
 **A:** It left its Windows open!
@@ -312,6 +330,12 @@ As in: OOPs I used Java!
 
 ---
 
+**Q:** Why do UPS drivers get nervous when their internet is unstable?
+
+**A:** Because they might lose packets.
+
+---
+
 **Q:** Why couldn’t the user update a file on a shared server?
 
 **A:** They didn’t have the write permissions
@@ -321,6 +345,12 @@ As in: OOPs I used Java!
 **Q:** What do you do when you can't understand your husband's behavior?
 
 **A:** man man
+
+---
+
+**Q:** What do you call a doctor who fixes websites?
+
+**A:** A URLogist
 
 ---
 
@@ -354,9 +384,21 @@ As in: OOPs I used Java!
 
 ---
 
+**Q:** What do you call a computer that sings?
+
+**A:** A-dell.
+
+---
+
 **Q:** What's a compiler developer's favorite spice?
 
 **A:** Parsley.
+
+---
+
+**Q:** When do front end developers go out to eat?
+
+**A:** On their lunch `<br>`.
 
 ---
 
@@ -378,9 +420,21 @@ As in: OOPs I used Java!
 
 ---
 
+**Q:** Why was the developer complaining at the hotel reception?
+
+**A:** Because they couldn't find room 404
+
+---
+
 **Q:** Why didn't the `<div />` get invited to the dinner party?
 
 **A:** Because it had no class!
+
+---
+
+**Q:** Why aren't cryptocurrency engineers allowed to vote?
+
+**A:** Because they're miners!
 
 ---
 
@@ -401,7 +455,6 @@ Asynchronous JavaScript is amazing.
 I Promise you, await and see.
 
 ---
-
 
 **Q:** What did the Class say in court when put on trial?
 
@@ -424,6 +477,12 @@ I Promise you, await and see.
 **Q:** What did the fruit basket say to the developer?
 
 **A:** I hope you're ready for some pear programming!
+
+---
+
+**Q:** How does a sysadmin keep a fire going?
+
+**A:** They rotate the logs.
 
 ---
 
@@ -572,7 +631,14 @@ There are 10 types of people in this world, those who understand binary and thos
 **A:** psycoPG13
 
 ---
+
 The next time you're using Safari or Firefox and it's running slowly, you can say to yourself, "[I could've had a V8](https://www.youtube.com/watch?v=ld8eAH0MW00)".
+
+---
+
+**Q:** What do you call a beverage that is 75% Root Beer, and 75% Ice Cream?
+
+**A:** A Float
 
 ---
 
@@ -585,6 +651,12 @@ The next time you're using Safari or Firefox and it's running slowly, you can sa
 **Q:** Where do developers drink?
 
 **A:** The Foo bar
+
+---
+
+**Q:** Why was the engineer upset when the bartender served them `1` shot of whiskey?
+
+**A:** Because they thought they ordered a double.
 
 ---
 
@@ -654,6 +726,12 @@ The next time you're using Safari or Firefox and it's running slowly, you can sa
 
 ---
 
+**Q**: Why did Tom Selleck never git commit anything?
+
+**A**: Because he thought he mustache his work.
+
+---
+
 **Q**: How does Mr. Potato Head (dev edition 0.0.1) remove his mustache?
 
 **A**: git stache pop
@@ -672,7 +750,7 @@ The next time you're using Safari or Firefox and it's running slowly, you can sa
 
 ---
 
-A new database query walks into a bar. 
+A new database query walks into a bar.
 
 The server says "Sorry, cache only."
 
@@ -698,7 +776,7 @@ What's the best tool for automatically ignoring long email threads about tech bu
 
 **Q**: Why did the developer cancel their dinner plans?
 
-**A**: They were unable to fulfil peer dependencies 
+**A**: They were unable to fulfil peer dependencies
 
 ---
 
@@ -708,3 +786,216 @@ What's the best tool for automatically ignoring long email threads about tech bu
 
 ---
 
+**Q:** How do JavaScript developers break up?
+
+**A:** They always promise to callback
+
+---
+
+**Q:** Why do developers mixup Terminals and Polygraphs?
+
+**A:** Because they both can see a lie (CLI)
+
+---
+
+**Q:** Did you hear about the programmer that was scared of IDEs?
+
+**A:** They retreated back into their shell
+
+---
+
+**Q:** What do you call optimistic front-end developers?
+
+**A:** Stack half-full developers.
+
+---
+
+Chuck Norris can take a screenshot of his blue screen.
+
+---
+
+**Q:** Have you heard the one about the Corduroy pillow?
+
+**A:** It's making HEADLINES!
+
+---
+
+**Q:** Hey officer! How did the hackers escape?
+
+**A:** No idea. They just ransomware.
+
+---
+
+**Q:** Why can’t data engineers become hat makers?
+
+**A:** They can only guarantee two thirds of a CAP!
+
+---
+
+**Q:** How did the hippie learn about database transactions?
+
+**A:** By taking ACID
+
+---
+
+**Q:** Why is it called the Dark Ages?
+
+**A:** There were a lot of KNIGHTS!
+
+---
+
+**Q:** What did the Network Administrator say when they caught a nasty virus?
+
+**A:** It hurts when IP
+
+---
+
+**Q:** Which programming language is the shortest?
+
+**A:** HTML. Because it doesn't have a neck between its `<head>` and `<body>`.
+
+---
+
+**Q**: What good can come of 2989 witches casting a hex?
+
+**A**: None, it is always 0xBAD
+
+---
+
+**Q**: Did you hear about the witch who was off by two when casting a hex?
+
+**A**: They failed to make the target DEAD and made them DEAF instead!
+
+---
+
+I went to a street where the houses were numbered 8k, 16k, 32k, 64k, 128k, 256k and 512k.
+
+It was a trip down Memory Lane.
+
+---
+
+Lisp programmers don't make prank calls. They make `FUNCALL`s
+
+---
+
+**Q**: Why do Front-End Developers eat lunch alone?
+
+**A**: Because, they don't know how to join tables.
+
+---
+
+**Q**: What advice do you give to a JS developer who has never played baseball?
+
+**A**: Try catch.
+
+---
+
+**Q**: Got any funny DNS jokes?
+
+**A**: Yeah, but it may take 24 hours to get it.
+
+---
+
+**Q**: Why were A & B so frustrated?
+
+**A**: Because they couldn’t cd…
+
+---
+
+**Q**: Where do programmer dad's store their jokes?
+
+**A**: In a dad-a-base.
+
+---
+
+**Q**: Why do Websockets make the best therapists?
+
+**A**: They are always listening.
+
+---
+
+**Q**: Why did the ALU refuse to add two subnibbles.
+
+**A**: Because it refuses to be seen doing a two-bit operation.
+
+---
+
+**Q**: How do you know your baby is going to be a developer when they grow up?
+
+**A**: Their first word is "Hello world!"
+
+---
+
+**Q**: What kind of image saved the day?
+
+**A**: The HERO image!
+
+---
+
+**Q**: Why do programmers prefer dark mode?
+
+**A**: Because light attracts bugs!
+
+---
+
+**Q**: Does this vaccine contain a microchip?
+
+**A**: I don't know for sure, but it must be ARM based.
+
+---
+
+**Q**: How do you make a 4D Printer?
+
+**A**: Take a 3D printer and give it some time
+
+---
+
+**Q**: How do front end devs like their brownies?
+
+**A**: GUI
+
+---
+
+Some languages can be read by humans, not by machines.
+
+Others can be read by machines but not by humans.
+
+XML solves this problem by being readable to neither.
+
+---
+
+**Q**: What do hackers do on a boat?
+
+**A**: Phishing.
+
+---
+
+**Q:** What is the most used language in programming?
+
+**A:** Profanity
+
+---
+
+**Q:** Why couldn't the HTML list be trusted?
+
+**A:** There were LI's everywhere
+
+---
+
+**Q:** To the person who invented zero
+
+**A:** Thank's for nothing
+
+---
+
+**Q:** What do you call a bee that lives in America?
+
+**A:** A USB
+
+---
+
+**Q:** What did Wonder Woman and Spider-Man name their business?
+
+**A:** Amazon Web Services
+
+---
