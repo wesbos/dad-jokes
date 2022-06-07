@@ -8,6 +8,12 @@ Unfortunately these jokes only work if you git them.
 
 ---
 
+**Q:** What can you do if you cannot push your git changes?
+
+**A:** Use the `--force`, Luke
+
+---
+
 **Q:** Which body part does a programmer know best?
 
 **A:** ARM
