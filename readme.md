@@ -987,7 +987,7 @@ XML solves this problem by being readable to neither.
 
 ---
 
-**Q:** What would Wonder Woman and Spider-Man name their business?
+**Q:** What did Wonder Woman and Spider-Man name their business?
 
 **A:** Amazon Web Services
 
