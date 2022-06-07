@@ -228,6 +228,6 @@ As in: OOPs I used Java!
 
 **Q:** Why was the developer complaining at the hotel reception?
 
-**A:** Because he couldn't find the room 404
+**A:** Because they couldn't find room 404
 
 ---
