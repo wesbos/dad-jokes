@@ -780,6 +780,12 @@ What's the best tool for automatically ignoring long email threads about tech bu
 
 ---
 
+**Q**: Why did the functional programmer finally move out of their house?
+
+**A**: For(e) closure
+
+---
+
 **Q**: Why do cryptographers never have more than 2 kids?
 
 **A**: Because after Alice and Bob, they can't think of any other names
