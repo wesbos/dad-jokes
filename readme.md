@@ -10,7 +10,7 @@ Unfortunately these jokes only work if you git them.
 
 **Q:** What can you do if you cannot push your git changes?
 
-**A:** (done in old Obi-Wan Kenobi voice) *Use the force*
+**A:** Use the `--force`, Luke
 
 ---
 
