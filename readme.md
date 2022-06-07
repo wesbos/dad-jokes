@@ -890,8 +890,8 @@ Lisp programmers don't make prank calls. They make `FUNCALL`s
 
 ---
 
-**Q**: Why was a developer being Mean?
+**Q**: Why was the developer MEAN to React?
 
-**A**: Because he worked Angular.
+**A**: Because they preferred Angular.
 
 ---
