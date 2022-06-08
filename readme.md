@@ -1023,3 +1023,7 @@ XML solves this problem by being readable to neither.
 **A:** Amazon Web Services
 
 ---
+
+**Q:** Why does a java developer need glasses?
+
+**A:** Because they can't C-Sharp!
