@@ -1023,3 +1023,9 @@ XML solves this problem by being readable to neither.
 **A:** Amazon Web Services
 
 ---
+
+**Q:** What do air conditioners and computes have in common?
+
+**A:** They are both useless when you open windows!
+
+---
