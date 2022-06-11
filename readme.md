@@ -1024,8 +1024,8 @@ XML solves this problem by being readable to neither.
 
 ---
 
-**Q:** What do air conditioners and computes have in common?
+**Q:** What’s a Jedi’s favourite programming language?
 
-**A:** They are both useless when you open windows!
+**A:** JabbaScript
 
 ---
