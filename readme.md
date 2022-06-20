@@ -1029,3 +1029,9 @@ XML solves this problem by being readable to neither.
 **A:** JabbaScript
 
 ---
+
+**Q:** I've got 25 cents. How much of that chocolate bar may I have?
+
+**A:** Half a nibble.
+
+---
