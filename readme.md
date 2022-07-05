@@ -1029,3 +1029,9 @@ XML solves this problem by being readable to neither.
 **A:** JabbaScript
 
 ---
+
+**Q:** What has four wheels and flies?
+
+**A:** A garbage truck
+
+---
