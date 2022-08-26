@@ -1029,3 +1029,9 @@ XML solves this problem by being readable to neither.
 **A:** JabbaScript
 
 ---
+
+**Q:** What do you call a 3.14 meters long snake?
+
+**A:** Python.
+
+---
