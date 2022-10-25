@@ -1035,3 +1035,9 @@ XML solves this problem by being readable to neither.
 **A:** Python.
 
 ---
+
+**Q:** Why did the programmer quit his job?
+
+**A:** Because he didn't get arrays.
+
+---
