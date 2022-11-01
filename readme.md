@@ -1041,3 +1041,9 @@ XML solves this problem by being readable to neither.
 **A:** everything is going to be 200 OK.
 
 ---
+
+**Q:** therapist: What do you need for a good relatioship?
+
+**A:** Primary keys.
+
+---
