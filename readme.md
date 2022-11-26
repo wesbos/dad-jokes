@@ -624,7 +624,7 @@ There are 10 types of people in this world, those who understand binary and thos
 
 ---
 
-**Q:** Why did the programmer come home crying?"
+**Q:** Why did the programmer come home crying?
 
 **A:** His friends were always boolean him.
 
