@@ -342,9 +342,9 @@ As in: OOPs I used Java!
 
 ---
 
-**Q:** Why do C programmers write their letters in *bold*?
+**Q:** Why do C programmers write their letters in **bold**?
 
-**A:** Because they're *strongly* typed.
+**A:** Because they're **strongly** typed.
 
 ---
 
