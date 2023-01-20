@@ -384,6 +384,12 @@ As in: OOPs I used Java!
 
 ---
 
+**Q:** Why do C programmers write their letters in **bold**?
+
+**A:** Because they're **strongly** typed.
+
+---
+
 **Q:** What are computers' favorite snacks?
 
 **A:** Microchips, phish sticks, and cookies. But just a few bytes of each.
