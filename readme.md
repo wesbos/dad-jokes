@@ -1041,3 +1041,9 @@ XML solves this problem by being readable to neither.
 **A:** Python.
 
 ---
+
+**Q:** Did you hear about the big lego sale recently? 
+
+**A:** People were lining up for blocks
+
+---
