@@ -8,6 +8,12 @@ Unfortunately these jokes only work if you git them.
 
 ---
 
+**Q:** Why was the computer cold? 
+
+**A:** Because it left its Windows open 🪟.
+
+---
+
 **Q:** What can you do if you cannot push your git changes?
 
 **A:** Use the `--force`, Luke
