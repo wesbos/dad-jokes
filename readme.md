@@ -1042,6 +1042,12 @@ XML solves this problem by being readable to neither.
 
 ---
 
+**Q:** What do you do when you drop your python package?
+
+**A:** Pip it up.
+
+---
+
 want about to a race conditions hear joke?
 
 ---
