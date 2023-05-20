@@ -1045,3 +1045,7 @@ XML solves this problem by being readable to neither.
 want about to a race conditions hear joke?
 
 ---
+
+I would love to change the world, but they won't give me the source code. 
+
+---
