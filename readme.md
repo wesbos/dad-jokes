@@ -1057,3 +1057,9 @@ want about to a race conditions hear joke?
 **A:** To help them RAML on.
 
 ---
+
+**Q:** I'm selling my 8 bit computer. Do you want to buy it? The price is $256.
+
+**A:** Sure! Give me $1 and it's all mine.
+
+**Q:** Deal. You'll have to come and get it, I can't carry it.
