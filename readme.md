@@ -1057,3 +1057,12 @@ want about to a race conditions hear joke?
 **A:** To help them RAML on.
 
 ---
+
+---
+
+**Q:** What is a Package Managers favorite holiday?
+
+**A:** Dependency Day
+
+---
+
