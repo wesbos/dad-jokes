@@ -944,20 +944,14 @@ Lisp programmers don't make prank calls. They make `FUNCALL`s
 
 ---
 
-**Q**: How do front end devs like their brownies?
-
-**A**: GUI
-
----
-
 **Q**: Why do astronauts use Linux?
 
 **A**: They can't open Windows in space!
 
 ---
 
-**Q**: Do you know why ARM chips dont get used much for servers? 
+**Q**: How do front end devs like their brownies?
 
-**A**: No one wants a servered ARM
+**A**: GUI
 
 ---
