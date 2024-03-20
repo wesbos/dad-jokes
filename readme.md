@@ -318,6 +318,12 @@ As in: OOPs I used Java!
 
 ---
 
+**Q:** Why did the stoner attend the cryptography conference?
+
+**A:** They heard it would be a Hash Function
+
+---
+
 **Q:** Why did the developer go broke?
 
 **A:** Because they used up all their cache
