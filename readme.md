@@ -980,6 +980,12 @@ Lisp programmers don't make prank calls. They make `FUNCALL`s
 
 ---
 
+**Q**: Why do astronauts use Linux?
+
+**A**: They can't open Windows in space!
+
+---
+
 **Q**: How do front end devs like their brownies?
 
 **A**: GUI
