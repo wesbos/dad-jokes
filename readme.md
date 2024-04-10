@@ -312,6 +312,12 @@ As in: OOPs I used Java!
 
 ---
 
+**Q:** Wrote down some thoughts -- OR?
+
+**A:** journald
+
+---
+
 **Q:** What did the server say to his client who was having a bad day?
 
 **A:** Everything's going to be 200
