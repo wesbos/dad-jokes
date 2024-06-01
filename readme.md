@@ -540,6 +540,12 @@ There are 10 types of people in this world, those who understand binary and thos
 
 ---
 
+**Q:** Why are `HP` employees bad at golf?
+
+**A:** Because they can never find the right `drivers`.
+
+---
+
 **Q:** An Agent died unexpectedly. How was the crime solved?
 
 **A:** By looking at the Stack Trace.
