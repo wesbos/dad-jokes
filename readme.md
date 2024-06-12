@@ -318,6 +318,12 @@ As in: OOPs I used Java!
 
 ---
 
+**Q:** Why did the stoner attend the cryptography conference?
+
+**A:** They heard it would be a Hash Function
+
+---
+
 **Q:** Why did the developer go broke?
 
 **A:** Because they used up all their cache
@@ -977,6 +983,12 @@ Lisp programmers don't make prank calls. They make `FUNCALL`s
 **Q**: How do you make a 4D Printer?
 
 **A**: Take a 3D printer and give it some time
+
+---
+
+**Q**: Why do astronauts use Linux?
+
+**A**: They can't open Windows in space!
 
 ---
 
