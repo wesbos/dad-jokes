@@ -1075,3 +1075,8 @@ want about to a race conditions hear joke?
 
 ---
 
+A programmer is going out shopping and his wife says "While you are out, get eggs"
+
+He never returned !!
+
+---
