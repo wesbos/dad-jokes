@@ -1074,4 +1074,6 @@ want about to a race conditions hear joke?
 **A:** Dependency Day
 
 ---
+**Q:** What’s a programmer’s favorite hangout place?
 
+**A** The "while" loop.
