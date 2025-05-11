@@ -1073,5 +1073,19 @@ want about to a race conditions hear joke?
 
 **A:** Dependency Day
 
+**Q:** Why did Get-ChildItem get grounded?
+
+**A:** Because it refused to recurse and kept hiding stuff from its parents!
+
+---
+**Q:** What’s a PowerShell error’s favorite type of music?
+
+**A:** Try-catchy tunes! 
+
+---
+**Q:** What’s a PowerShell module’s favorite pickup line?
+
+**A:** “Are you a function? Because I want to Import-Module you into my life.
+
 ---
 
