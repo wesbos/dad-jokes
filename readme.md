@@ -1105,3 +1105,20 @@ Blindly trusting that 100% code coverage implies no bugs is [`tox`](tox.wiki)ic.
 
 ---
 
+**Q:** Why are phishers such successful salespeople?
+
+**A:** They really know how to lure in customers and get them hooked!
+
+---
+
+**Q:** Why did the security admin install a firewall in the kitchen?
+
+**A:** To prevent unauthorized cookies!
+
+---
+
+**Q:**  Why don't hackers like to eat at chain restaurants?
+
+**A:** They're afraid of the supply chain attacks.
+
+---
