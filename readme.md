@@ -1069,16 +1069,16 @@ want about to a race conditions hear joke?
 **A:** To help them RAML on.
 
 ---
+
 **Q:** What is a Package Managers favorite holiday?
 
 **A:** Dependency Day
-
 
 ---
 
 **Q:** Who is the most popular musician according to iOS developers?
 
-**A:** Taylor *Swift*.
+**A:** Taylor _Swift_.
 
 ---
 
@@ -1089,7 +1089,6 @@ The TypeScript haters say that `any` other language is better. I guess they have
 A new JS framework just dropped, but I'd need time to properly React to it.
 
 ---
-
 
 I like to `tkinter` with various GUI frameworks.
 
@@ -1105,3 +1104,8 @@ Blindly trusting that 100% code coverage implies no bugs is [`tox`](tox.wiki)ic.
 
 ---
 
+**Q:** Why are Mimes terrifying?
+
+**A:** They're always doing unspeakable things!
+
+---
