@@ -4,6 +4,10 @@
 
 ---
 
+I have joke about programming, but it only works on _my_ computer.
+
+---
+
 Unfortunately these jokes only work if you git them.
 
 ---
