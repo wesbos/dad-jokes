@@ -4,7 +4,7 @@
 
 ---
 
-I have joke about programming, but it works only on my computer...
+I have joke about programming, but it only works on _my_ computer.
 
 ---
 
