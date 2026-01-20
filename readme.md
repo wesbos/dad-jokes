@@ -1109,3 +1109,12 @@ Blindly trusting that 100% code coverage implies no bugs is [`tox`](tox.wiki)ic.
 
 ---
 
+I told my Python script a joke…
+It didn’t laugh, but it did raise an exception.
+
+---
+
+My code and I are in a fight.
+It keeps telling me: IndentationError: unexpected relationship.
+
+---
