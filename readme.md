@@ -1109,9 +1109,9 @@ Blindly trusting that 100% code coverage implies no bugs is [`tox`](tox.wiki)ic.
 
 ---
 
-**Q:** Why didn't the tester exist? 
+**Q:** Why did the tester run? 
 
-**A:** Because he was mocked as a child.
+**A:** Because they were mocked as a child.
 
 ---
 
